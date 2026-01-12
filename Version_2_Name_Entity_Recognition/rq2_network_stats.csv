@@ -1,0 +1,155 @@
+Actor,Category,Degree_Centrality,Betweenness_Centrality
+Canada Foundation for Innovation,Government,0.7647058823529412,0.2356811145510836
+Global Affairs Canada,Government,0.7647058823529412,0.2356811145510836
+Business Development Bank of Canada,Government,0.5751633986928105,0.31991744066047473
+"Innovation, Science and Economic Development Canada",Government,0.41830065359477125,0.038183694530443756
+D-Wave,Industry,0.39869281045751637,0.0
+Creative Destruction Lab,Civil Society,0.39869281045751637,0.0
+DRDC,Government,0.39869281045751637,0.0
+Defence Research and Development Canada,Government,0.39869281045751637,0.0
+Department of National Defence,Government,0.39869281045751637,0.0
+DND,Government,0.39869281045751637,0.0
+ISED,Government,0.39869281045751637,0.0
+Government of Quebec,Government,0.39869281045751637,0.0
+IBM,Industry,0.39869281045751637,0.0
+Horizon Europe,not an actor,0.39869281045751637,0.0
+IBM Quantum Hub,Industry,0.39869281045751637,0.0
+IDEaS,not an actor,0.39869281045751637,0.0
+IQC,Academia,0.39869281045751637,0.0
+IBM Q System One,not an actor,0.39869281045751637,0.0
+Internet of Things,not an actor,0.39869281045751637,0.0
+Innovation for Defence Excellence and Security,not an actor,0.39869281045751637,0.0
+Institut Quantique,Academia,0.39869281045751637,0.0
+Institute for Quantum Computing,Academia,0.39869281045751637,0.0
+Mitacs,Civil Society,0.39869281045751637,0.0
+Invest in Canada,Government,0.39869281045751637,0.0
+NSERC CREATE,not an actor,0.39869281045751637,0.0
+Communications Security Establishment,Government,0.39869281045751637,0.0
+Statistics Canada,Government,0.39869281045751637,0.0
+Social Sciences and Humanities Research Council,Government,0.39869281045751637,0.0
+Sherbrooke Quantum Innovation Zone,Civil Society,0.39869281045751637,0.0
+Secure Networks Challenge Program,not an actor,0.39869281045751637,0.0
+Xanadu,Industry,0.39869281045751637,0.0
+World Economic Forum,Civil Society,0.39869281045751637,0.0
+Université de Sherbrooke,Academia,0.39869281045751637,0.0
+University of Waterloo,Academia,0.39869281045751637,0.0
+UKRI,Government,0.39869281045751637,0.0
+UK Research and Innovation (UKRI),Government,0.39869281045751637,0.0
+U.S. National Science Foundation,Government,0.39869281045751637,0.0
+Tri-Agency EDI Action Plan,not an actor,0.39869281045751637,0.0
+Trade Commissioner Service,Government,0.39869281045751637,0.0
+The Department of National Defence and Canadian Armed Forces Quantum Science and Technology (S&T) Strategy,not an actor,0.39869281045751637,0.0
+TCS,Government,0.39869281045751637,0.0
+Stewart Blusson Quantum Matter Institute,Academia,0.39869281045751637,0.0
+Quantum Valley Ideas Lab,Civil Society,0.39869281045751637,0.0
+Quantum Technologies Competition,not an actor,0.39869281045751637,0.0
+Quantum Industry Canada,Civil Society,0.39869281045751637,0.0
+Quantum Advisory Council,Government,0.39869281045751637,0.0
+SSHRC,Government,0.39869281045751637,0.0
+S&T Strategy,not an actor,0.39869281045751637,0.0
+S&T,not an actor,0.39869281045751637,0.0
+Council,not specfied,0.39869281045751637,0.0
+Bank of Canada,Government,0.39869281045751637,0.0
+Canada Excellence Research Chairs Program,not an actor,0.39869281045751637,0.0
+CSE,Government,0.39869281045751637,0.0
+CERC,not an actor,0.39869281045751637,0.0
+Anyon Systems,Industry,0.39869281045751637,0.0
+BDC Deep Tech Venture Fund,not an actor,0.39869281045751637,0.0
+Alliance,not an actor,0.39869281045751637,0.0
+European Commission,Government,0.39869281045751637,0.0
+Perimeter Institute,Academia,0.39869281045751637,0.0
+PennyLane,not an actor,0.39869281045751637,0.0
+PTs,not an actor,0.39869281045751637,0.0
+National Quantum Strategy,not an actor,0.39869281045751637,0.0
+Regional Business Network,not specified,0.39869281045751637,0.0
+GAC,Government,0.37254901960784315,0.0
+FedDev Ontario,Government,0.37254901960784315,0.0
+Federal Economic Development Agency for Southern Ontario,Government,0.37254901960784315,0.0
+IRAP,Government,0.37254901960784315,0.0
+IDEaS Innovation for Defence Excellence and Security,not an actor,0.37254901960784315,0.0
+Government of Canada,Government,0.37254901960784315,0.0
+Global Innovation Clusters,not an actor,0.37254901960784315,0.0
+Canadian Institute for Advanced Research CIFAR,Academia,0.37254901960784315,0.0
+Canadian International Innovation Program,not an actor,0.37254901960784315,0.0
+Canadian Armed Forces,Government,0.37254901960784315,0.0
+Canada Economic Development for Quebec Regions,Government,0.37254901960784315,0.0
+BDC,Government,0.37254901960784315,0.0
+CFI,Government,0.37254901960784315,0.0
+CED,Government,0.37254901960784315,0.0
+C2MI,Civil Society,0.37254901960784315,0.0
+Acountry,not specified,0.37254901960784315,0.0
+Budget 2022,not an actor,0.37254901960784315,0.0
+Alliance International,not an actor,0.37254901960784315,0.0
+Employment and Social Development Canada,Government,0.37254901960784315,0.0
+Commercialization Stakeholders,not specfied,0.37254901960784315,0.0
+ESDC,Government,0.37254901960784315,0.0
+EDI,not an actor,0.37254901960784315,0.0
+Deep Tech Venture Fund,not an actor,0.37254901960784315,0.0
+pillar RESEARCH PILLAR Research,not specified,0.37254901960784315,0.0
+Western Economic Diversification,Government,0.37254901960784315,0.0
+WD,Government,0.37254901960784315,0.0
+The National Quantum Strategy,not an actor,0.37254901960784315,0.0
+ISC,not an actor,0.37254901960784315,0.0
+"Immigration, Refugees and Citizenship Canada",Government,0.37254901960784315,0.0
+Innovative Solutions Canada,not an actor,0.37254901960784315,0.0
+International Summer School for Young Physicists,not an actor,0.37254901960784315,0.0
+MiQro Innovation Collaborative Center,Civil Society,0.37254901960784315,0.0
+Mitacs Accelerate International,not an actor,0.37254901960784315,0.0
+NQS,not an actor,0.37254901960784315,0.0
+NRC IRAP,Government,0.37254901960784315,0.0
+NRC’s Industrial Research Assistance Program,Government,0.37254901960784315,0.0
+NSF,Government,0.37254901960784315,0.0
+National Science Foundation,Government,0.37254901960784315,0.0
+National Security Guidelines for Research Partnerships,not an actor,0.37254901960784315,0.0
+National Security Review of Investments,not an actor,0.37254901960784315,0.0
+Nord Quantique,Industry,0.37254901960784315,0.0
+PSI Start program,not an actor,0.37254901960784315,0.0
+PacifiCan,Government,0.37254901960784315,0.0
+Perimeter,Academia,0.37254901960784315,0.0
+PrairiesCan,Government,0.37254901960784315,0.0
+Public Service Commission of Canada,Government,0.37254901960784315,0.0
+QEYSSat,not an actor,0.37254901960784315,0.0
+Quantum Algorithms Institute,Civil Society,0.37254901960784315,0.0
+Quantum Computing,not an actor,0.37254901960784315,0.0
+Quantum Encryption and Science Satellite,not an actor,0.37254901960784315,0.0
+REGI,not an actor,0.37254901960784315,0.0
+Regional Economic Growth through Innovation program,not an actor,0.37254901960784315,0.0
+SIF,not an actor,0.37254901960784315,0.0
+Standards Council of Canada,Government,0.37254901960784315,0.0
+Strategic Innovation Fund,not an actor,0.37254901960784315,0.0
+Alberta Technology and Innovation Strategy,Government,0.20261437908496732,0.0
+CFREF,not an actor,0.20261437908496732,0.0
+CIFAR,Academia,0.20261437908496732,0.0
+CSA,Government,0.20261437908496732,0.0
+Canada First Research Excellence Fund,not an actor,0.20261437908496732,0.0
+Canadian Coast Guard,Government,0.20261437908496732,0.0
+Canadian Space Agency,Government,0.20261437908496732,0.0
+Directive on Security Management,not relevant (from Footnotes),0.20261437908496732,0.0
+Federal department,not specified,0.20261437908496732,0.0
+Global Industry Analysts Inc.,not relevant (from Footnotes),0.20261437908496732,0.0
+Government of Alberta,Government,0.20261437908496732,0.0
+Government of British Columbia,Government,0.20261437908496732,0.0
+Government of Ontario,Government,0.20261437908496732,0.0
+ITB,not an actor,0.20261437908496732,0.0
+ITB Policy,not an actor,0.20261437908496732,0.0
+NFRF,not an actor,0.20261437908496732,0.0
+NQS Secretariat,Government,0.20261437908496732,0.0
+NRC,Academia,0.20261437908496732,0.0
+NSERC,Government,0.20261437908496732,0.0
+National Research Council of Canada,Academia,0.20261437908496732,0.0
+Natural Sciences and Engineering Research Council of Canada,Government,0.20261437908496732,0.0
+New Frontiers in Research Fund,not an actor,0.20261437908496732,0.0
+Pacific Economic Development Canada,Government,0.20261437908496732,0.0
+Perimeter Institute for Theoretical Physics,Academia,0.20261437908496732,0.0
+Prairies Economic Development Canada,Government,0.20261437908496732,0.0
+Quantum Committee,not an actor,0.20261437908496732,0.0
+STDP,not an actor,0.20261437908496732,0.0
+Space Technology Development Program,not an actor,0.20261437908496732,0.0
+University of Alberta,Academia,0.20261437908496732,0.0
+University of Calgary,Academia,0.20261437908496732,0.0
+University of Lethbridge,Academia,0.20261437908496732,0.0
+John R. Evans Leaders Fund,not an actor,0.0196078431372549,0.0
+QRDI,not an actor,0.0196078431372549,0.0
+Quantum Research and Development Initiative,not an actor,0.0196078431372549,0.0
+CIIP,not an actor,0.006535947712418301,0.0
+NSERC Alliance,not an actor,0.006535947712418301,0.0

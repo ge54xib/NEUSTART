@@ -1,0 +1,161 @@
+Doc_ID,Entity_ID,Country,Year,Document_Name,Page,Block_ID,entity_name,ner_label,qh_category,qh_sub_category,qh_exact_category,modified_entity_name,finalized_entity_name,Label
+0,0,CAN,2022,Canada's National Quantum Strategy,2,1,Acountry,ORG,not specified,not specified,not specified,False,Acountry,Acountry
+0,1,CAN,2022,Canada's National Quantum Strategy,3,1,The National Quantum Strategy,ORG,not an actor,not an actor,not an actor,False,The National Quantum Strategy,The National Quantum Strategy
+0,2,CAN,2022,Canada's National Quantum Strategy,3,1,NQS,ORG,not an actor,not an actor,not an actor,False,NQS,NQS
+0,3,CAN,2022,Canada's National Quantum Strategy,3,1,Government of Canada,ORG,Government,Policy Makers,Government,False,Government of Canada,Government of Canada
+0,4,CAN,2022,Canada's National Quantum Strategy,4,3,National Research Council of Canada,ORG,Academia,Public Research Orgs (PROs),Research Council,False,National Research Council of Canada,National Research Council of Canada
+0,5,CAN,2022,Canada's National Quantum Strategy,4,3,NRC,ORG,Academia,Public Research Orgs (PROs),Research Council,False,NRC,NRC
+0,6,CAN,2022,Canada's National Quantum Strategy,5,2,D-Wave,ORG,Industry,Private Firms (Corporates),Technology Provider,False,D-Wave,D-Wave
+0,7,CAN,2022,Canada's National Quantum Strategy,5,2,World Economic Forum,ORG,Civil Society,Intermediaries,Foundation; Network; Think Tank,False,World Economic Forum,World Economic Forum
+0,8,CAN,2022,Canada's National Quantum Strategy,5,2,Xanadu,ORG,Industry,Start-ups,Technology Provider,False,Xanadu,Xanadu
+0,9,CAN,2022,Canada's National Quantum Strategy,5,2,PennyLane,ORG,not an actor,not an actor,not an actor,False,PennyLane,PennyLane
+0,10,CAN,2022,Canada's National Quantum Strategy,5,3,CIFAR,ORG,Academia,Public Research Orgs (PROs),,False,CIFAR,CIFAR
+0,11,CAN,2022,Canada's National Quantum Strategy,6,4,Science and Economic Development Canada,ORG,Government,Policy Makers,Federal Department; Ministry,True,"Innovation, Science and Economic Development Canada","Innovation, Science and Economic Development Canada"
+0,12,CAN,2022,Canada's National Quantum Strategy,7,2,National Quantum Strategy,ORG,not an actor,not an actor,not an actor,False,National Quantum Strategy,National Quantum Strategy
+0,13,CAN,2022,Canada's National Quantum Strategy,8,1,Commercialization Stakeholders,ORG,not specfied,not specified,not specified,False,Commercialization Stakeholders,Commercialization Stakeholders
+0,14,CAN,2022,Canada's National Quantum Strategy,8,2,Social Sciences and Humanities Research Council,ORG,Government,Funding Agencies,Funding; Research Council,False,Social Sciences and Humanities Research Council,Social Sciences and Humanities Research Council
+0,15,CAN,2022,Canada's National Quantum Strategy,8,2,SSHRC,ORG,Government,Funding Agencies,,False,SSHRC,SSHRC
+0,16,CAN,2022,Canada's National Quantum Strategy,10,1,Strategic Innovation Fund,ORG,not an actor,not an actor,not an actor,False,Strategic Innovation Fund,Strategic Innovation Fund
+0,17,CAN,2022,Canada's National Quantum Strategy,10,1,SIF,ORG,not an actor,not an actor,not an actor,False,SIF,SIF
+0,18,CAN,2022,Canada's National Quantum Strategy,10,1,Canada Foundation for Innovation,ORG,Government,Funding Agencies,Funding,False,Canada Foundation for Innovation,Canada Foundation for Innovation
+0,19,CAN,2022,Canada's National Quantum Strategy,10,1,CFI,ORG,Government,Funding Agencies,Funding,False,CFI,CFI
+0,20,CAN,2022,Canada's National Quantum Strategy,11,1,Standards Council of Canada,ORG,Government,Policy Makers,Foundation; Regulatory Authority; Research Council,False,Standards Council of Canada,Standards Council of Canada
+0,21,CAN,2022,Canada's National Quantum Strategy,11,2,Bank of Canada,ORG,Government,Policy Makers,Central Bank; Monetary Authority; Regulatory Authority,False,Bank of Canada,Bank of Canada
+0,22,CAN,2022,Canada's National Quantum Strategy,12,1,Innovative Solutions Canada,ORG,not an actor,not an actor,not an actor,False,Innovative Solutions Canada,Innovative Solutions Canada
+0,23,CAN,2022,Canada's National Quantum Strategy,12,1,ISC,ORG,not an actor,not an actor,not an actor,False,ISC,ISC
+0,24,CAN,2022,Canada's National Quantum Strategy,12,1,Quantum Computing,ORG,not an actor,not an actor,not an actor,False,Quantum Computing,Quantum Computing
+0,25,CAN,2022,Canada's National Quantum Strategy,13,2,Communications Security Establishment,ORG,Government,Policy Makers,Federal Security; Intelligence Authority; Regulatory Authority,False,Communications Security Establishment,Communications Security Establishment
+0,26,CAN,2022,Canada's National Quantum Strategy,13,3,Directive on Security Management,ORG,not relevant (from Footnotes),not relevant (from Footnotes),not relevant (from Footnotes),False,Directive on Security Management,Directive on Security Management
+0,27,CAN,2022,Canada's National Quantum Strategy,14,1,Quantum Encryption and Science Satellite,ORG,not an actor,not an actor,not an actor,False,Quantum Encryption and Science Satellite,Quantum Encryption and Science Satellite
+0,28,CAN,2022,Canada's National Quantum Strategy,14,1,QEYSSat,ORG,not an actor,not an actor,not an actor,False,QEYSSat,QEYSSat
+0,29,CAN,2022,Canada's National Quantum Strategy,14,2,Secure Networks Challenge Program,ORG,not an actor,not an actor,not an actor,False,Secure Networks Challenge Program,Secure Networks Challenge Program
+0,30,CAN,2022,Canada's National Quantum Strategy,15,2,Department of National Defence,ORG,Government,Policy Makers,Federal Department; Ministry,False,Department of National Defence,Department of National Defence
+0,31,CAN,2022,Canada's National Quantum Strategy,15,2,DND,ORG,Government,Policy Makers,Federal Department; Ministry,False,DND,DND
+0,32,CAN,2022,Canada's National Quantum Strategy,15,2,Internet of Things,ORG,not an actor,not an actor,not an actor,False,Internet of Things,Internet of Things
+0,33,CAN,2022,Canada's National Quantum Strategy,15,3,Global Industry Analysts Inc.,ORG,not relevant (from Footnotes),not relevant (from Footnotes),not relevant (from Footnotes),False,Global Industry Analysts Inc.,Global Industry Analysts Inc.
+0,34,CAN,2022,Canada's National Quantum Strategy,17,2,IQC,ORG,Academia,Public Research Orgs (PROs),Institute,False,IQC,IQC
+0,35,CAN,2022,Canada's National Quantum Strategy,17,2,University of Waterloo,ORG,Academia,Higher Education Institutions (HEIs),University,False,University of Waterloo,University of Waterloo
+0,36,CAN,2022,Canada's National Quantum Strategy,17,2,Perimeter Institute,ORG,Academia,Public Research Orgs (PROs),Institute,False,Perimeter Institute,Perimeter Institute
+0,37,CAN,2022,Canada's National Quantum Strategy,17,2,Quantum Valley Ideas Lab,ORG,Civil Society,Intermediaries,Hub; Incubator; Innovation Hub,False,Quantum Valley Ideas Lab,Quantum Valley Ideas Lab
+0,38,CAN,2022,Canada's National Quantum Strategy,17,3,Canada First Research Excellence Fund,ORG,not an actor,not an actor,not an actor,False,Canada First Research Excellence Fund,Canada First Research Excellence Fund
+0,39,CAN,2022,Canada's National Quantum Strategy,17,3,CFREF,ORG,not an actor,not an actor,not an actor,False,CFREF,CFREF
+0,40,CAN,2022,Canada's National Quantum Strategy,17,3,Canadian Space Agency,ORG,Government,Policy Makers,Space Agency,False,Canadian Space Agency,Canadian Space Agency
+0,41,CAN,2022,Canada's National Quantum Strategy,17,3,Natural Sciences and Engineering Research Council of Canada,ORG,Government,Funding Agencies,Funding; Grant; Research Council,False,Natural Sciences and Engineering Research Council of Canada,Natural Sciences and Engineering Research Council of Canada
+0,42,CAN,2022,Canada's National Quantum Strategy,17,3,NSERC,ORG,Government,Funding Agencies,Funding; Grant; Research Council,False,NSERC,NSERC
+0,43,CAN,2022,Canada's National Quantum Strategy,18,1,MiQro Innovation Collaborative Center,ORG,Civil Society,Intermediaries,Cluster; Collaborative Research Center; Consortium; Hub; Innovation Hub; Network,False,MiQro Innovation Collaborative Center,MiQro Innovation Collaborative Center
+0,44,CAN,2022,Canada's National Quantum Strategy,18,1,C2MI,ORG,Civil Society,Intermediaries,Cluster; Collaborative Research Center; Consortium; Innovation Hub; Network,False,C2MI,C2MI
+0,45,CAN,2022,Canada's National Quantum Strategy,18,1,Quantum Algorithms Institute,ORG,Civil Society,Intermediaries,Alliance; Consortium; Hub; Innovation Hub; Network,False,Quantum Algorithms Institute,Quantum Algorithms Institute
+0,46,CAN,2022,Canada's National Quantum Strategy,18,2,CSE,ORG,Government,Policy Makers,Federal Security; Intelligence Authority; Regulatory Authority,False,CSE,CSE
+0,47,CAN,2022,Canada's National Quantum Strategy,18,4,Quantum Research and Development Initiative,ORG,not an actor,not an actor,not an actor,False,Quantum Research and Development Initiative,Quantum Research and Development Initiative
+0,48,CAN,2022,Canada's National Quantum Strategy,18,4,QRDI,ORG,not an actor,not an actor,not an actor,False,QRDI,QRDI
+0,49,CAN,2022,Canada's National Quantum Strategy,18,5,NSERC Alliance,ORG,not an actor,not an actor,Grant Program; not an actor,False,NSERC Alliance,NSERC Alliance
+0,50,CAN,2022,Canada's National Quantum Strategy,19,1,IDEaS Innovation for Defence Excellence and Security,ORG,not an actor,not an actor,Program; not an actor,False,IDEaS Innovation for Defence Excellence and Security,IDEaS Innovation for Defence Excellence and Security
+0,51,CAN,2022,Canada's National Quantum Strategy,19,1,Canadian Armed Forces,ORG,Government,Policy Makers,Military,False,Canadian Armed Forces,Canadian Armed Forces
+0,52,CAN,2022,Canada's National Quantum Strategy,19,2,Université de Sherbrooke,ORG,Academia,Higher Education Institutions (HEIs),University,False,Université de Sherbrooke,Université de Sherbrooke
+0,53,CAN,2022,Canada's National Quantum Strategy,19,2,Institute for Quantum Computing,ORG,Academia,Public Research Orgs (PROs),Institute,False,Institute for Quantum Computing,Institute for Quantum Computing
+0,54,CAN,2022,Canada's National Quantum Strategy,19,2,Institut Quantique,ORG,Academia,Public Research Orgs (PROs),Institute; Think Tank,False,Institut Quantique,Institut Quantique
+0,55,CAN,2022,Canada's National Quantum Strategy,19,2,Stewart Blusson Quantum Matter Institute,ORG,Academia,Public Research Orgs (PROs),Institute,False,Stewart Blusson Quantum Matter Institute,Stewart Blusson Quantum Matter Institute
+0,56,CAN,2022,Canada's National Quantum Strategy,19,2,Mitacs,ORG,Civil Society,Intermediaries,Funding; Talent & Skills Organization; funded by the Government,False,Mitacs,Mitacs
+0,57,CAN,2022,Canada's National Quantum Strategy,20,2,NSERC CREATE,ORG,not an actor,not an actor,Program; not an actor,False,NSERC CREATE,NSERC CREATE
+0,58,CAN,2022,Canada's National Quantum Strategy,21,1,Mitacs Accelerate International,ORG,not an actor,not an actor,Program; not an actor,False,Mitacs Accelerate International,Mitacs Accelerate International
+0,59,CAN,2022,Canada's National Quantum Strategy,21,1,Alliance International,ORG,not an actor,not an actor,Program; not an actor,False,Alliance International,Alliance International
+0,60,CAN,2022,Canada's National Quantum Strategy,21,1,"Immigration, Refugees and Citizenship Canada",ORG,Government,Policy Makers,Federal Department; Ministry,False,"Immigration, Refugees and Citizenship Canada","Immigration, Refugees and Citizenship Canada"
+0,61,CAN,2022,Canada's National Quantum Strategy,21,1,Global Affairs Canada,ORG,Government,Policy Makers,Federal Department; Ministry,False,Global Affairs Canada,Global Affairs Canada
+0,62,CAN,2022,Canada's National Quantum Strategy,21,1,GAC,ORG,Government,Policy Makers,Federal Department; Ministry,False,GAC,GAC
+0,63,CAN,2022,Canada's National Quantum Strategy,21,1,Budget 2022,ORG,not an actor,not an actor,Financial Plan; not an actor,False,Budget 2022,Budget 2022
+0,64,CAN,2022,Canada's National Quantum Strategy,21,2,"Innovation, Science and Economic Development Canada",ORG,Government,Policy Makers,Federal Department; Ministry,False,"Innovation, Science and Economic Development Canada","Innovation, Science and Economic Development Canada"
+0,65,CAN,2022,Canada's National Quantum Strategy,21,2,ISED,ORG,Government,Policy Makers,Federal Department; Ministry,False,ISED,ISED
+0,66,CAN,2022,Canada's National Quantum Strategy,21,2,Tri-Agency EDI Action Plan,ORG,not an actor,not an actor,Strategic Document; not an actor,False,Tri-Agency EDI Action Plan,Tri-Agency EDI Action Plan
+0,67,CAN,2022,Canada's National Quantum Strategy,21,2,Alliance,ORG,not an actor,not an actor,Funding; not an actor,False,Alliance,Alliance
+0,68,CAN,2022,Canada's National Quantum Strategy,22,1,EDI,ORG,not an actor,not an actor,Strategic Document,False,EDI,EDI
+0,69,CAN,2022,Canada's National Quantum Strategy,22,1,International Summer School for Young Physicists,ORG,not an actor,not an actor,Program; not an actor,False,International Summer School for Young Physicists,International Summer School for Young Physicists
+0,70,CAN,2022,Canada's National Quantum Strategy,22,1,Perimeter,ORG,Academia,Public Research Orgs (PROs),Institute,False,Perimeter,Perimeter
+0,71,CAN,2022,Canada's National Quantum Strategy,22,1,PSI,ORG,not an actor,not an actor,Program; not an actor,True,PSI Start program,PSI Start program
+0,72,CAN,2022,Canada's National Quantum Strategy,22,2,Statistics Canada,ORG,Government,Policy Makers,Federal Agency,False,Statistics Canada,Statistics Canada
+0,73,CAN,2022,Canada's National Quantum Strategy,22,2,Quantum Industry Canada,ORG,Civil Society,Intermediaries,Consortium; Industry Association,False,Quantum Industry Canada,Quantum Industry Canada
+0,74,CAN,2022,Canada's National Quantum Strategy,22,2,Creative Destruction Lab,ORG,Civil Society,Intermediaries,Accelerator; Incubator,False,Creative Destruction Lab,Creative Destruction Lab
+0,75,CAN,2022,Canada's National Quantum Strategy,23,1,NRC’s Industrial Research Assistance Program,ORG,Government,Funding Agencies,Funding,False,NRC’s Industrial Research Assistance Program,NRC’s Industrial Research Assistance Program
+0,76,CAN,2022,Canada's National Quantum Strategy,23,1,IRAP,ORG,Government,Funding Agencies,Advisory Service; SME Support,False,IRAP,IRAP
+0,77,CAN,2022,Canada's National Quantum Strategy,23,1,Federal Economic Development Agency for Southern Ontario,ORG,Government,Funding Agencies,Federal Agency,False,Federal Economic Development Agency for Southern Ontario,Federal Economic Development Agency for Southern Ontario
+0,78,CAN,2022,Canada's National Quantum Strategy,23,1,FedDev Ontario,ORG,Government,Funding Agencies,,False,FedDev Ontario,FedDev Ontario
+0,79,CAN,2022,Canada's National Quantum Strategy,23,1,Western Economic Diversification,ORG,Government,Funding Agencies,Federal Agency,False,Western Economic Diversification,Western Economic Diversification
+0,80,CAN,2022,Canada's National Quantum Strategy,23,1,WD,ORG,Government,Funding Agencies,Federal Agency,False,WD,WD
+0,81,CAN,2022,Canada's National Quantum Strategy,23,1,Canada Economic Development for Quebec Regions,ORG,Government,Funding Agencies,Federal Agency,False,Canada Economic Development for Quebec Regions,Canada Economic Development for Quebec Regions
+0,82,CAN,2022,Canada's National Quantum Strategy,23,1,CED,ORG,Government,Funding Agencies,Federal Agency,False,CED,CED
+0,83,CAN,2022,Canada's National Quantum Strategy,23,1,Canadian International Innovation Program,ORG,not an actor,not an actor,Program; not an actor,False,Canadian International Innovation Program,Canadian International Innovation Program
+0,84,CAN,2022,Canada's National Quantum Strategy,23,1,NRC IRAP,ORG,Government,Funding Agencies,Federal Agency; Funding,False,NRC IRAP,NRC IRAP
+0,85,CAN,2022,Canada's National Quantum Strategy,23,1,Business Development Bank of Canada,ORG,Government,Bank,Corporate VC; Funding,False,Business Development Bank of Canada,Business Development Bank of Canada
+0,86,CAN,2022,Canada's National Quantum Strategy,23,1,BDC,ORG,Government,Bank,Corporate VC; Funding,False,BDC,BDC
+0,87,CAN,2022,Canada's National Quantum Strategy,23,1,Deep Tech Venture Fund,ORG,not an actor,not an actor,Financial Vehicle,False,Deep Tech Venture Fund,Deep Tech Venture Fund
+0,88,CAN,2022,Canada's National Quantum Strategy,23,1,Nord Quantique,ORG,Industry,Start-ups,Technology Provider,False,Nord Quantique,Nord Quantique
+0,89,CAN,2022,Canada's National Quantum Strategy,23,2,BDC Deep Tech Venture Fund,ORG,not an actor,not an actor,Financial Vehicle,False,BDC Deep Tech Venture Fund,BDC Deep Tech Venture Fund
+0,90,CAN,2022,Canada's National Quantum Strategy,24,1,Regional Economic Growth through Innovation,ORG,not an actor,not an actor,Program; not an actor,True,Regional Economic Growth through Innovation program,Regional Economic Growth through Innovation program
+0,91,CAN,2022,Canada's National Quantum Strategy,24,1,REGI,ORG,not an actor,not an actor,Program; not an actor,False,REGI,REGI
+0,92,CAN,2022,Canada's National Quantum Strategy,24,1,PrairiesCan,ORG,Government,Funding Agencies,Federal Agency,False,PrairiesCan,PrairiesCan
+0,93,CAN,2022,Canada's National Quantum Strategy,24,1,PacifiCan,ORG,Government,Funding Agencies,Federal Agency,False,PacifiCan,PacifiCan
+0,94,CAN,2022,Canada's National Quantum Strategy,24,1,Global Innovation Clusters,ORG,not an actor,not an actor,Program; not an actor,False,Global Innovation Clusters,Global Innovation Clusters
+0,95,CAN,2022,Canada's National Quantum Strategy,24,2,Canadian Armed Forces Quantum Science and Technology,ORG,not an actor,not an actor,Strategic Document; not an actor,True,The Department of National Defence and Canadian Armed Forces Quantum Science and Technology (S&T) Strategy,The Department of National Defence and Canadian Armed Forces Quantum Science and Technology (S&T) Strategy
+0,96,CAN,2022,Canada's National Quantum Strategy,24,2,S&T,ORG,not an actor,not an actor,Strategic Document; not an actor,False,S&T,S&T
+0,97,CAN,2022,Canada's National Quantum Strategy,24,2,S&T Strategy,ORG,not an actor,not an actor,Strategic Document; not an actor,False,S&T Strategy,S&T Strategy
+0,98,CAN,2022,Canada's National Quantum Strategy,25,2,Quantum Advisory Council,ORG,Government,Policy Makers,Advisory Service; Council,False,Quantum Advisory Council,Quantum Advisory Council
+0,99,CAN,2022,Canada's National Quantum Strategy,25,2,Council,ORG,not specfied,not specified,not specified,False,Council,Council
+0,100,CAN,2022,Canada's National Quantum Strategy,25,3,Quantum Committee,ORG,not an actor,not an actor,not an actor,False,Quantum Committee,Quantum Committee
+0,101,CAN,2022,Canada's National Quantum Strategy,25,3,NQS Secretariat,ORG,Government,Policy Makers,Administrative Unit,False,NQS Secretariat,NQS Secretariat
+0,102,CAN,2022,Canada's National Quantum Strategy,26,2,Government of Quebec,ORG,Government,Policy Makers,Federal Department; Ministry,False,Government of Quebec,Government of Quebec
+0,103,CAN,2022,Canada's National Quantum Strategy,26,2,Sherbrooke Quantum Innovation Zone,ORG,Civil Society,Intermediaries,Cluster; Hub; Innovation Hub,False,Sherbrooke Quantum Innovation Zone,Sherbrooke Quantum Innovation Zone
+0,104,CAN,2022,Canada's National Quantum Strategy,26,2,IBM Quantum Hub,ORG,Industry,Private Firms (Corporates),Innovation Hub,False,IBM Quantum Hub,IBM Quantum Hub
+0,105,CAN,2022,Canada's National Quantum Strategy,26,2,IBM,ORG,Industry,Private Firms (Corporates),Technology Provider,False,IBM,IBM
+0,106,CAN,2022,Canada's National Quantum Strategy,26,2,IBM Q System One,ORG,not an actor,not an actor,not an actor,False,IBM Q System One,IBM Q System One
+0,107,CAN,2022,Canada's National Quantum Strategy,26,2,Anyon Systems,ORG,Industry,Start-ups,Technology Provider,False,Anyon Systems,Anyon Systems
+0,108,CAN,2022,Canada's National Quantum Strategy,26,3,Government of Ontario,ORG,Government,Policy Makers,Federal Department; Ministry,False,Government of Ontario,Government of Ontario
+0,109,CAN,2022,Canada's National Quantum Strategy,26,3,Perimeter Institute for Theoretical Physics,ORG,Academia,Public Research Orgs (PROs),Institute,False,Perimeter Institute for Theoretical Physics,Perimeter Institute for Theoretical Physics
+0,110,CAN,2022,Canada's National Quantum Strategy,26,3,Government of Alberta,ORG,Government,Policy Makers,Federal Department; Ministry,False,Government of Alberta,Government of Alberta
+0,111,CAN,2022,Canada's National Quantum Strategy,26,3,Alberta Technology and Innovation Strategy,ORG,Government,Policy Makers,Strategic Document,False,Alberta Technology and Innovation Strategy,Alberta Technology and Innovation Strategy
+0,112,CAN,2022,Canada's National Quantum Strategy,26,3,University of Calgary,ORG,Academia,Higher Education Institutions (HEIs),University,False,University of Calgary,University of Calgary
+0,113,CAN,2022,Canada's National Quantum Strategy,26,3,University of Alberta,ORG,Academia,Higher Education Institutions (HEIs),University,False,University of Alberta,University of Alberta
+0,114,CAN,2022,Canada's National Quantum Strategy,26,3,University of Lethbridge,ORG,Academia,Higher Education Institutions (HEIs),University,False,University of Lethbridge,University of Lethbridge
+0,115,CAN,2022,Canada's National Quantum Strategy,26,3,Government of British Columbia,ORG,Government,Policy Makers,Federal Department; Ministry,False,Government of British Columbia,Government of British Columbia
+0,116,CAN,2022,Canada's National Quantum Strategy,27,1,Canadian Institute for Advanced Research CIFAR,ORG,Academia,Public Research Orgs (PROs),Institute,False,Canadian Institute for Advanced Research CIFAR,Canadian Institute for Advanced Research CIFAR
+0,117,CAN,2022,Canada's National Quantum Strategy,27,2,NSERC-UK Research and Innovation,ORG,Government,Funding Agencies,International Partnership,True,UK Research and Innovation (UKRI),UK Research and Innovation (UKRI)
+0,118,CAN,2022,Canada's National Quantum Strategy,27,2,UKRI,ORG,Government,Funding Agencies,International Partnership,False,UKRI,UKRI
+0,119,CAN,2022,Canada's National Quantum Strategy,27,2,Quantum Technologies Competition,ORG,not an actor,not an actor,Program,False,Quantum Technologies Competition,Quantum Technologies Competition
+0,120,CAN,2022,Canada's National Quantum Strategy,27,2,U.S. National Science Foundation,ORG,Government,Funding Agencies,International Partnership,False,U.S. National Science Foundation,U.S. National Science Foundation
+0,121,CAN,2022,Canada's National Quantum Strategy,27,2,European Commission,ORG,Government,Funding Agencies,International Partnership,False,European Commission,European Commission
+0,122,CAN,2022,Canada's National Quantum Strategy,27,2,Horizon Europe,ORG,not an actor,not an actor,Program,False,Horizon Europe,Horizon Europe
+0,123,CAN,2022,Canada's National Quantum Strategy,28,1,National Security Guidelines for Research Partnerships,ORG,not an actor,not an actor,not an actor,False,National Security Guidelines for Research Partnerships,National Security Guidelines for Research Partnerships
+0,124,CAN,2022,Canada's National Quantum Strategy,28,1,National Security Review of Investments,ORG,not an actor,not an actor,not an actor,False,National Security Review of Investments,National Security Review of Investments
+0,125,CAN,2022,Canada's National Quantum Strategy,28,2,TCS,ORG,Government,Government Support Services,Federal Agency,False,TCS,TCS
+0,126,CAN,2022,Canada's National Quantum Strategy,28,2,Invest,ORG,Government,Government Support Services,Federal Agency,True,Invest in Canada,Invest in Canada
+0,127,CAN,2022,Canada's National Quantum Strategy,30,1,pillar RESEARCH PILLAR Research,ORG,not specified,not specified,not an actor,False,pillar RESEARCH PILLAR Research,pillar RESEARCH PILLAR Research
+0,128,CAN,2022,Canada's National Quantum Strategy,30,2,Canada Excellence Research Chairs Program,ORG,not an actor,not an actor,Program; not an actor,False,Canada Excellence Research Chairs Program,Canada Excellence Research Chairs Program
+0,129,CAN,2022,Canada's National Quantum Strategy,30,2,CERC,ORG,not an actor,not an actor,Program; not an actor,False,CERC,CERC
+0,130,CAN,2022,Canada's National Quantum Strategy,30,3,New Frontiers in Research Fund,ORG,not an actor,not an actor,Fund; not an actor,False,New Frontiers in Research Fund,New Frontiers in Research Fund
+0,131,CAN,2022,Canada's National Quantum Strategy,30,3,NFRF,ORG,not an actor,not an actor,Fund; not an actor,False,NFRF,NFRF
+0,132,CAN,2022,Canada's National Quantum Strategy,31,1,NSERC-National Science Foundation,ORG,Government,Funding Agencies,International Partnership,True,National Science Foundation,National Science Foundation
+0,133,CAN,2022,Canada's National Quantum Strategy,31,1,NSF,ORG,Government,Funding Agencies,International Partnership,False,NSF,NSF
+0,134,CAN,2022,Canada's National Quantum Strategy,31,2,Innovation for Defence Excellence and Security,ORG,not an actor,not an actor,Program; not an actor,False,Innovation for Defence Excellence and Security,Innovation for Defence Excellence and Security
+0,135,CAN,2022,Canada's National Quantum Strategy,31,2,IDEaS,ORG,not an actor,not an actor,Program; not an actor,False,IDEaS,IDEaS
+0,136,CAN,2022,Canada's National Quantum Strategy,31,2,Defence Research and Development Canada,ORG,Government,Federal Research Organization,Federal Research Agency,False,Defence Research and Development Canada,Defence Research and Development Canada
+0,137,CAN,2022,Canada's National Quantum Strategy,31,2,DRDC,ORG,Government,Federal Research Organization,Federal Research Agency,False,DRDC,DRDC
+0,138,CAN,2022,Canada's National Quantum Strategy,31,2,Innovation Fund – Canada Foundation for Innovation,ORG,Government,Funding Agencies,Funding,True,Canada Foundation for Innovation,Canada Foundation for Innovation
+0,139,CAN,2022,Canada's National Quantum Strategy,31,3,Federal department,ORG,not specified,not specified,not specified,False,Federal department,Federal department
+0,140,CAN,2022,Canada's National Quantum Strategy,31,4,John R. Evans Leaders Fund,ORG,not an actor,not an actor,Fund,False,John R. Evans Leaders Fund,John R. Evans Leaders Fund
+0,141,CAN,2022,Canada's National Quantum Strategy,31,5,CIIP,ORG,not an actor,not an actor,Program,False,CIIP,CIIP
+0,142,CAN,2022,Canada's National Quantum Strategy,31,6,TALENT PILLAR Talent,ORG,not specified,not specified,not specified,False,TALENT PILLAR Talent,TALENT PILLAR Talent
+0,143,CAN,2022,Canada's National Quantum Strategy,32,1,Global Talent Stream – Employment and Social Development Canada,ORG,Government,Policy Makers,Federal Department,True,Employment and Social Development Canada,Employment and Social Development Canada
+0,144,CAN,2022,Canada's National Quantum Strategy,32,1,ESDC,ORG,Government,Policy Makers,Federal Department,False,ESDC,ESDC
+0,145,CAN,2022,Canada's National Quantum Strategy,32,1,Public Service Commission of Canada,ORG,Government,Government Support Services,Federal Agency,False,Public Service Commission of Canada,Public Service Commission of Canada
+0,146,CAN,2022,Canada's National Quantum Strategy,32,2,PTs,ORG,not an actor,not an actor,not an actor,False,PTs,PTs
+0,147,CAN,2022,Canada's National Quantum Strategy,32,3,Prairies Economic Development Canada,ORG,Government,Funding Agencies,Federal Agency,False,Prairies Economic Development Canada,Prairies Economic Development Canada
+0,148,CAN,2022,Canada's National Quantum Strategy,32,3,Pacific Economic Development Canada,ORG,Government,Funding Agencies,Federal Agency,False,Pacific Economic Development Canada,Pacific Economic Development Canada
+0,149,CAN,2022,Canada's National Quantum Strategy,32,3,ITB,ORG,not an actor,not an actor,Policy Framework; not an actor,False,ITB,ITB
+0,150,CAN,2022,Canada's National Quantum Strategy,32,3,ITB Policy,ORG,not an actor,not an actor,Policy Framework; not an actor,False,ITB Policy,ITB Policy
+0,151,CAN,2022,Canada's National Quantum Strategy,32,3,Canadian Coast Guard,ORG,Government,Government Support Services,Federal Agency,False,Canadian Coast Guard,Canadian Coast Guard
+0,152,CAN,2022,Canada's National Quantum Strategy,33,2,Canada Trade Commissioner Service – Global Affairs Canada,ORG,Government,Policy Makers,Federal Department; Ministry,True,Global Affairs Canada,Global Affairs Canada
+0,153,CAN,2022,Canada's National Quantum Strategy,33,2,Trade Commissioner Service,ORG,Government,Government Support Services,Federal Agency,False,Trade Commissioner Service,Trade Commissioner Service
+0,154,CAN,2022,Canada's National Quantum Strategy,33,2,Regional Business Network,ORG,not specified,not specified,not specified,False,Regional Business Network,Regional Business Network
+0,155,CAN,2022,Canada's National Quantum Strategy,33,3,Space Technology Development Program,ORG,not an actor,not an actor,Program; not an actor,False,Space Technology Development Program,Space Technology Development Program
+0,156,CAN,2022,Canada's National Quantum Strategy,33,3,STDP,ORG,not an actor,not an actor,Program; not an actor,False,STDP,STDP
+0,157,CAN,2022,Canada's National Quantum Strategy,33,3,CSA,ORG,Government,Policy Makers,Space Agency,False,CSA,CSA
+0,158,CAN,2022,Canada's National Quantum Strategy,33,3,Deep Tech Venture Fund – Business Development Bank of Canada,ORG,Government,Bank,Corporate VC; Funding,True,Business Development Bank of Canada,Business Development Bank of Canada
+

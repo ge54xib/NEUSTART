@@ -1,0 +1,740 @@
+Doc_ID,Entity_ID,Country,Year,Document_Name,Page,Block_ID,entity_name,ner_label,qh_category,qh_sub_category,qh_exact_category,modified_entity_name,finalized_entity_name
+0,0,CAN,2022,Canada's National Quantum Strategy,2,1,Acountry,ORG,not specified,not specified,not specified,False,Acountry
+0,1,CAN,2022,Canada's National Quantum Strategy,3,1,The National Quantum Strategy,ORG,not an actor,not an actor,not an actor,False,The National Quantum Strategy
+0,2,CAN,2022,Canada's National Quantum Strategy,3,1,NQS,ORG,not an actor,not an actor,not an actor,False,NQS
+0,3,CAN,2022,Canada's National Quantum Strategy,3,1,Government of Canada,ORG,Government,Policy Makers,Government,False,Government of Canada
+0,4,CAN,2022,Canada's National Quantum Strategy,4,3,National Research Council of Canada,ORG,Academia,Public Research Orgs (PROs),Research Council,False,National Research Council of Canada
+0,5,CAN,2022,Canada's National Quantum Strategy,4,3,NRC,ORG,Academia,Public Research Orgs (PROs),Research Council,False,NRC
+0,6,CAN,2022,Canada's National Quantum Strategy,5,2,D-Wave,ORG,Industry,Private Firms (Corporates),Technology Provider,False,D-Wave
+0,7,CAN,2022,Canada's National Quantum Strategy,5,2,World Economic Forum,ORG,Civil Society,Intermediaries,Foundation; Network; Think Tank,False,World Economic Forum
+0,8,CAN,2022,Canada's National Quantum Strategy,5,2,Xanadu,ORG,Industry,Start-ups,Technology Provider,False,Xanadu
+0,9,CAN,2022,Canada's National Quantum Strategy,5,2,PennyLane,ORG,not an actor,not an actor,not an actor,False,PennyLane
+0,10,CAN,2022,Canada's National Quantum Strategy,5,3,CIFAR,ORG,Academia,Public Research Orgs (PROs),,False,CIFAR
+0,11,CAN,2022,Canada's National Quantum Strategy,6,4,Science and Economic Development Canada,ORG,Government,Policy Makers,Federal Department; Ministry,True,"Innovation, Science and Economic Development Canada"
+0,12,CAN,2022,Canada's National Quantum Strategy,7,2,National Quantum Strategy,ORG,not an actor,not an actor,not an actor,False,National Quantum Strategy
+0,13,CAN,2022,Canada's National Quantum Strategy,8,1,Commercialization Stakeholders,ORG,not specfied,not specified,not specified,False,Commercialization Stakeholders
+0,14,CAN,2022,Canada's National Quantum Strategy,8,2,Social Sciences and Humanities Research Council,ORG,Government,Funding Agencies,Funding; Research Council,False,Social Sciences and Humanities Research Council
+0,15,CAN,2022,Canada's National Quantum Strategy,8,2,SSHRC,ORG,Government,Funding Agencies,,False,SSHRC
+0,16,CAN,2022,Canada's National Quantum Strategy,10,1,Strategic Innovation Fund,ORG,not an actor,not an actor,not an actor,False,Strategic Innovation Fund
+0,17,CAN,2022,Canada's National Quantum Strategy,10,1,SIF,ORG,not an actor,not an actor,not an actor,False,SIF
+0,18,CAN,2022,Canada's National Quantum Strategy,10,1,Canada Foundation for Innovation,ORG,Government,Funding Agencies,Funding,False,Canada Foundation for Innovation
+0,19,CAN,2022,Canada's National Quantum Strategy,10,1,CFI,ORG,Government,Funding Agencies,Funding,False,CFI
+0,20,CAN,2022,Canada's National Quantum Strategy,11,1,Standards Council of Canada,ORG,Government,Policy Makers,Foundation; Regulatory Authority; Research Council,False,Standards Council of Canada
+0,21,CAN,2022,Canada's National Quantum Strategy,11,2,Bank of Canada,ORG,Government,Policy Makers,Central Bank; Monetary Authority; Regulatory Authority,False,Bank of Canada
+0,22,CAN,2022,Canada's National Quantum Strategy,12,1,Innovative Solutions Canada,ORG,not an actor,not an actor,not an actor,False,Innovative Solutions Canada
+0,23,CAN,2022,Canada's National Quantum Strategy,12,1,ISC,ORG,not an actor,not an actor,not an actor,False,ISC
+0,24,CAN,2022,Canada's National Quantum Strategy,12,1,Quantum Computing,ORG,not an actor,not an actor,not an actor,False,Quantum Computing
+0,25,CAN,2022,Canada's National Quantum Strategy,13,2,Communications Security Establishment,ORG,Government,Policy Makers,Federal Security; Intelligence Authority; Regulatory Authority,False,Communications Security Establishment
+0,26,CAN,2022,Canada's National Quantum Strategy,13,3,Directive on Security Management,ORG,not relevant (from Footnotes),not relevant (from Footnotes),not relevant (from Footnotes),False,Directive on Security Management
+0,27,CAN,2022,Canada's National Quantum Strategy,14,1,Quantum Encryption and Science Satellite,ORG,not an actor,not an actor,not an actor,False,Quantum Encryption and Science Satellite
+0,28,CAN,2022,Canada's National Quantum Strategy,14,1,QEYSSat,ORG,not an actor,not an actor,not an actor,False,QEYSSat
+0,29,CAN,2022,Canada's National Quantum Strategy,14,2,Secure Networks Challenge Program,ORG,not an actor,not an actor,not an actor,False,Secure Networks Challenge Program
+0,30,CAN,2022,Canada's National Quantum Strategy,15,2,Department of National Defence,ORG,Government,Policy Makers,Federal Department; Ministry,False,Department of National Defence
+0,31,CAN,2022,Canada's National Quantum Strategy,15,2,DND,ORG,Government,Policy Makers,Federal Department; Ministry,False,DND
+0,32,CAN,2022,Canada's National Quantum Strategy,15,2,Internet of Things,ORG,not an actor,not an actor,not an actor,False,Internet of Things
+0,33,CAN,2022,Canada's National Quantum Strategy,15,3,Global Industry Analysts Inc.,ORG,not relevant (from Footnotes),not relevant (from Footnotes),not relevant (from Footnotes),False,Global Industry Analysts Inc.
+0,34,CAN,2022,Canada's National Quantum Strategy,17,2,IQC,ORG,Academia,Public Research Orgs (PROs),Institute,False,IQC
+0,35,CAN,2022,Canada's National Quantum Strategy,17,2,University of Waterloo,ORG,Academia,Higher Education Institutions (HEIs),University,False,University of Waterloo
+0,36,CAN,2022,Canada's National Quantum Strategy,17,2,Perimeter Institute,ORG,Academia,Public Research Orgs (PROs),Institute,False,Perimeter Institute
+0,37,CAN,2022,Canada's National Quantum Strategy,17,2,Quantum Valley Ideas Lab,ORG,Civil Society,Intermediaries,Hub; Incubator; Innovation Hub,False,Quantum Valley Ideas Lab
+0,38,CAN,2022,Canada's National Quantum Strategy,17,3,Canada First Research Excellence Fund,ORG,not an actor,not an actor,not an actor,False,Canada First Research Excellence Fund
+0,39,CAN,2022,Canada's National Quantum Strategy,17,3,CFREF,ORG,not an actor,not an actor,not an actor,False,CFREF
+0,40,CAN,2022,Canada's National Quantum Strategy,17,3,Canadian Space Agency,ORG,Government,Policy Makers,Space Agency,False,Canadian Space Agency
+0,41,CAN,2022,Canada's National Quantum Strategy,17,3,Natural Sciences and Engineering Research Council of Canada,ORG,Government,Funding Agencies,Funding; Grant; Research Council,False,Natural Sciences and Engineering Research Council of Canada
+0,42,CAN,2022,Canada's National Quantum Strategy,17,3,NSERC,ORG,Government,Funding Agencies,Funding; Grant; Research Council,False,NSERC
+0,43,CAN,2022,Canada's National Quantum Strategy,18,1,MiQro Innovation Collaborative Center,ORG,Civil Society,Intermediaries,Cluster; Collaborative Research Center; Consortium; Hub; Innovation Hub; Network,False,MiQro Innovation Collaborative Center
+0,44,CAN,2022,Canada's National Quantum Strategy,18,1,C2MI,ORG,Civil Society,Intermediaries,Cluster; Collaborative Research Center; Consortium; Innovation Hub; Network,False,C2MI
+0,45,CAN,2022,Canada's National Quantum Strategy,18,1,Quantum Algorithms Institute,ORG,Civil Society,Intermediaries,Alliance; Consortium; Hub; Innovation Hub; Network,False,Quantum Algorithms Institute
+0,46,CAN,2022,Canada's National Quantum Strategy,18,2,CSE,ORG,Government,Policy Makers,Federal Security; Intelligence Authority; Regulatory Authority,False,CSE
+0,47,CAN,2022,Canada's National Quantum Strategy,18,4,Quantum Research and Development Initiative,ORG,not an actor,not an actor,not an actor,False,Quantum Research and Development Initiative
+0,48,CAN,2022,Canada's National Quantum Strategy,18,4,QRDI,ORG,not an actor,not an actor,not an actor,False,QRDI
+0,49,CAN,2022,Canada's National Quantum Strategy,18,5,NSERC Alliance,ORG,not an actor,not an actor,Grant Program; not an actor,False,NSERC Alliance
+0,50,CAN,2022,Canada's National Quantum Strategy,19,1,IDEaS Innovation for Defence Excellence and Security,ORG,not an actor,not an actor,Program; not an actor,False,IDEaS Innovation for Defence Excellence and Security
+0,51,CAN,2022,Canada's National Quantum Strategy,19,1,Canadian Armed Forces,ORG,Government,Policy Makers,Military,False,Canadian Armed Forces
+0,52,CAN,2022,Canada's National Quantum Strategy,19,2,Université de Sherbrooke,ORG,Academia,Higher Education Institutions (HEIs),University,False,Université de Sherbrooke
+0,53,CAN,2022,Canada's National Quantum Strategy,19,2,Institute for Quantum Computing,ORG,Academia,Public Research Orgs (PROs),Institute,False,Institute for Quantum Computing
+0,54,CAN,2022,Canada's National Quantum Strategy,19,2,Institut Quantique,ORG,Academia,Public Research Orgs (PROs),Institute; Think Tank,False,Institut Quantique
+0,55,CAN,2022,Canada's National Quantum Strategy,19,2,Stewart Blusson Quantum Matter Institute,ORG,Academia,Public Research Orgs (PROs),Institute,False,Stewart Blusson Quantum Matter Institute
+0,56,CAN,2022,Canada's National Quantum Strategy,19,2,Mitacs,ORG,Civil Society,Intermediaries,Funding; Talent & Skills Organization; funded by the Government,False,Mitacs
+0,57,CAN,2022,Canada's National Quantum Strategy,20,2,NSERC CREATE,ORG,not an actor,not an actor,Program; not an actor,False,NSERC CREATE
+0,58,CAN,2022,Canada's National Quantum Strategy,21,1,Mitacs Accelerate International,ORG,not an actor,not an actor,Program; not an actor,False,Mitacs Accelerate International
+0,59,CAN,2022,Canada's National Quantum Strategy,21,1,Alliance International,ORG,not an actor,not an actor,Program; not an actor,False,Alliance International
+0,60,CAN,2022,Canada's National Quantum Strategy,21,1,"Immigration, Refugees and Citizenship Canada",ORG,Government,Policy Makers,Federal Department; Ministry,False,"Immigration, Refugees and Citizenship Canada"
+0,61,CAN,2022,Canada's National Quantum Strategy,21,1,Global Affairs Canada,ORG,Government,Policy Makers,Federal Department; Ministry,False,Global Affairs Canada
+0,62,CAN,2022,Canada's National Quantum Strategy,21,1,GAC,ORG,Government,Policy Makers,Federal Department; Ministry,False,GAC
+0,63,CAN,2022,Canada's National Quantum Strategy,21,1,Budget 2022,ORG,not an actor,not an actor,Financial Plan; not an actor,False,Budget 2022
+0,64,CAN,2022,Canada's National Quantum Strategy,21,2,"Innovation, Science and Economic Development Canada",ORG,Government,Policy Makers,Federal Department; Ministry,False,"Innovation, Science and Economic Development Canada"
+0,65,CAN,2022,Canada's National Quantum Strategy,21,2,ISED,ORG,Government,Policy Makers,Federal Department; Ministry,False,ISED
+0,66,CAN,2022,Canada's National Quantum Strategy,21,2,Tri-Agency EDI Action Plan,ORG,not an actor,not an actor,Strategic Document; not an actor,False,Tri-Agency EDI Action Plan
+0,67,CAN,2022,Canada's National Quantum Strategy,21,2,Alliance,ORG,not an actor,not an actor,Funding; not an actor,False,Alliance
+0,68,CAN,2022,Canada's National Quantum Strategy,22,1,EDI,ORG,not an actor,not an actor,Strategic Document,False,EDI
+0,69,CAN,2022,Canada's National Quantum Strategy,22,1,International Summer School for Young Physicists,ORG,not an actor,not an actor,Program; not an actor,False,International Summer School for Young Physicists
+0,70,CAN,2022,Canada's National Quantum Strategy,22,1,Perimeter,ORG,Academia,Public Research Orgs (PROs),Institute,False,Perimeter
+0,71,CAN,2022,Canada's National Quantum Strategy,22,1,PSI,ORG,not an actor,not an actor,Program; not an actor,True,PSI Start program
+0,72,CAN,2022,Canada's National Quantum Strategy,22,2,Statistics Canada,ORG,Government,Policy Makers,Federal Agency,False,Statistics Canada
+0,73,CAN,2022,Canada's National Quantum Strategy,22,2,Quantum Industry Canada,ORG,Civil Society,Intermediaries,Consortium; Industry Association,False,Quantum Industry Canada
+0,74,CAN,2022,Canada's National Quantum Strategy,22,2,Creative Destruction Lab,ORG,Civil Society,Intermediaries,Accelerator; Incubator,False,Creative Destruction Lab
+0,75,CAN,2022,Canada's National Quantum Strategy,23,1,NRC’s Industrial Research Assistance Program,ORG,Government,Funding Agencies,Funding,False,NRC’s Industrial Research Assistance Program
+0,76,CAN,2022,Canada's National Quantum Strategy,23,1,IRAP,ORG,Government,Funding Agencies,Advisory Service; SME Support,False,IRAP
+0,77,CAN,2022,Canada's National Quantum Strategy,23,1,Federal Economic Development Agency for Southern Ontario,ORG,Government,Funding Agencies,Federal Agency,False,Federal Economic Development Agency for Southern Ontario
+0,78,CAN,2022,Canada's National Quantum Strategy,23,1,FedDev Ontario,ORG,Government,Funding Agencies,,False,FedDev Ontario
+0,79,CAN,2022,Canada's National Quantum Strategy,23,1,Western Economic Diversification,ORG,Government,Funding Agencies,Federal Agency,False,Western Economic Diversification
+0,80,CAN,2022,Canada's National Quantum Strategy,23,1,WD,ORG,Government,Funding Agencies,Federal Agency,False,WD
+0,81,CAN,2022,Canada's National Quantum Strategy,23,1,Canada Economic Development for Quebec Regions,ORG,Government,Funding Agencies,Federal Agency,False,Canada Economic Development for Quebec Regions
+0,82,CAN,2022,Canada's National Quantum Strategy,23,1,CED,ORG,Government,Funding Agencies,Federal Agency,False,CED
+0,83,CAN,2022,Canada's National Quantum Strategy,23,1,Canadian International Innovation Program,ORG,not an actor,not an actor,Program; not an actor,False,Canadian International Innovation Program
+0,84,CAN,2022,Canada's National Quantum Strategy,23,1,NRC IRAP,ORG,Government,Funding Agencies,Federal Agency; Funding,False,NRC IRAP
+0,85,CAN,2022,Canada's National Quantum Strategy,23,1,Business Development Bank of Canada,ORG,Government,Bank,Corporate VC; Funding,False,Business Development Bank of Canada
+0,86,CAN,2022,Canada's National Quantum Strategy,23,1,BDC,ORG,Government,Bank,Corporate VC; Funding,False,BDC
+0,87,CAN,2022,Canada's National Quantum Strategy,23,1,Deep Tech Venture Fund,ORG,not an actor,not an actor,Financial Vehicle,False,Deep Tech Venture Fund
+0,88,CAN,2022,Canada's National Quantum Strategy,23,1,Nord Quantique,ORG,Industry,Start-ups,Technology Provider,False,Nord Quantique
+0,89,CAN,2022,Canada's National Quantum Strategy,23,2,BDC Deep Tech Venture Fund,ORG,not an actor,not an actor,Financial Vehicle,False,BDC Deep Tech Venture Fund
+0,90,CAN,2022,Canada's National Quantum Strategy,24,1,Regional Economic Growth through Innovation,ORG,not an actor,not an actor,Program; not an actor,True,Regional Economic Growth through Innovation program
+0,91,CAN,2022,Canada's National Quantum Strategy,24,1,REGI,ORG,not an actor,not an actor,Program; not an actor,False,REGI
+0,92,CAN,2022,Canada's National Quantum Strategy,24,1,PrairiesCan,ORG,Government,Funding Agencies,Federal Agency,False,PrairiesCan
+0,93,CAN,2022,Canada's National Quantum Strategy,24,1,PacifiCan,ORG,Government,Funding Agencies,Federal Agency,False,PacifiCan
+0,94,CAN,2022,Canada's National Quantum Strategy,24,1,Global Innovation Clusters,ORG,not an actor,not an actor,Program; not an actor,False,Global Innovation Clusters
+0,95,CAN,2022,Canada's National Quantum Strategy,24,2,Canadian Armed Forces Quantum Science and Technology,ORG,not an actor,not an actor,Strategic Document; not an actor,True,The Department of National Defence and Canadian Armed Forces Quantum Science and Technology (S&T) Strategy
+0,96,CAN,2022,Canada's National Quantum Strategy,24,2,S&T,ORG,not an actor,not an actor,Strategic Document; not an actor,False,S&T
+0,97,CAN,2022,Canada's National Quantum Strategy,24,2,S&T Strategy,ORG,not an actor,not an actor,Strategic Document; not an actor,False,S&T Strategy
+0,98,CAN,2022,Canada's National Quantum Strategy,25,2,Quantum Advisory Council,ORG,Government,Policy Makers,Advisory Service; Council,False,Quantum Advisory Council
+0,99,CAN,2022,Canada's National Quantum Strategy,25,2,Council,ORG,not specfied,not specified,not specified,False,Council
+0,100,CAN,2022,Canada's National Quantum Strategy,25,3,Quantum Committee,ORG,not an actor,not an actor,not an actor,False,Quantum Committee
+0,101,CAN,2022,Canada's National Quantum Strategy,25,3,NQS Secretariat,ORG,Government,Policy Makers,Administrative Unit,False,NQS Secretariat
+0,102,CAN,2022,Canada's National Quantum Strategy,26,2,Government of Quebec,ORG,Government,Policy Makers,Federal Department; Ministry,False,Government of Quebec
+0,103,CAN,2022,Canada's National Quantum Strategy,26,2,Sherbrooke Quantum Innovation Zone,ORG,Civil Society,Intermediaries,Cluster; Hub; Innovation Hub,False,Sherbrooke Quantum Innovation Zone
+0,104,CAN,2022,Canada's National Quantum Strategy,26,2,IBM Quantum Hub,ORG,Industry,Private Firms (Corporates),Innovation Hub,False,IBM Quantum Hub
+0,105,CAN,2022,Canada's National Quantum Strategy,26,2,IBM,ORG,Industry,Private Firms (Corporates),Technology Provider,False,IBM
+0,106,CAN,2022,Canada's National Quantum Strategy,26,2,IBM Q System One,ORG,not an actor,not an actor,not an actor,False,IBM Q System One
+0,107,CAN,2022,Canada's National Quantum Strategy,26,2,Anyon Systems,ORG,Industry,Start-ups,Technology Provider,False,Anyon Systems
+0,108,CAN,2022,Canada's National Quantum Strategy,26,3,Government of Ontario,ORG,Government,Policy Makers,Federal Department; Ministry,False,Government of Ontario
+0,109,CAN,2022,Canada's National Quantum Strategy,26,3,Perimeter Institute for Theoretical Physics,ORG,Academia,Public Research Orgs (PROs),Institute,False,Perimeter Institute for Theoretical Physics
+0,110,CAN,2022,Canada's National Quantum Strategy,26,3,Government of Alberta,ORG,Government,Policy Makers,Federal Department; Ministry,False,Government of Alberta
+0,111,CAN,2022,Canada's National Quantum Strategy,26,3,Alberta Technology and Innovation Strategy,ORG,Government,Policy Makers,Strategic Document,False,Alberta Technology and Innovation Strategy
+0,112,CAN,2022,Canada's National Quantum Strategy,26,3,University of Calgary,ORG,Academia,Higher Education Institutions (HEIs),University,False,University of Calgary
+0,113,CAN,2022,Canada's National Quantum Strategy,26,3,University of Alberta,ORG,Academia,Higher Education Institutions (HEIs),University,False,University of Alberta
+0,114,CAN,2022,Canada's National Quantum Strategy,26,3,University of Lethbridge,ORG,Academia,Higher Education Institutions (HEIs),University,False,University of Lethbridge
+0,115,CAN,2022,Canada's National Quantum Strategy,26,3,Government of British Columbia,ORG,Government,Policy Makers,Federal Department; Ministry,False,Government of British Columbia
+0,116,CAN,2022,Canada's National Quantum Strategy,27,1,Canadian Institute for Advanced Research CIFAR,ORG,Academia,Public Research Orgs (PROs),Institute,False,Canadian Institute for Advanced Research CIFAR
+0,117,CAN,2022,Canada's National Quantum Strategy,27,2,NSERC-UK Research and Innovation,ORG,Government,Funding Agencies,International Partnership,True,UK Research and Innovation (UKRI)
+0,118,CAN,2022,Canada's National Quantum Strategy,27,2,UKRI,ORG,Government,Funding Agencies,International Partnership,False,UKRI
+0,119,CAN,2022,Canada's National Quantum Strategy,27,2,Quantum Technologies Competition,ORG,not an actor,not an actor,Program,False,Quantum Technologies Competition
+0,120,CAN,2022,Canada's National Quantum Strategy,27,2,U.S. National Science Foundation,ORG,Government,Funding Agencies,International Partnership,False,U.S. National Science Foundation
+0,121,CAN,2022,Canada's National Quantum Strategy,27,2,European Commission,ORG,Government,Funding Agencies,International Partnership,False,European Commission
+0,122,CAN,2022,Canada's National Quantum Strategy,27,2,Horizon Europe,ORG,not an actor,not an actor,Program,False,Horizon Europe
+0,123,CAN,2022,Canada's National Quantum Strategy,28,1,National Security Guidelines for Research Partnerships,ORG,not an actor,not an actor,not an actor,False,National Security Guidelines for Research Partnerships
+0,124,CAN,2022,Canada's National Quantum Strategy,28,1,National Security Review of Investments,ORG,not an actor,not an actor,not an actor,False,National Security Review of Investments
+0,125,CAN,2022,Canada's National Quantum Strategy,28,2,TCS,ORG,Government,Government Support Services,Federal Agency,False,TCS
+0,126,CAN,2022,Canada's National Quantum Strategy,28,2,Invest,ORG,Government,Government Support Services,Federal Agency,True,Invest in Canada
+0,127,CAN,2022,Canada's National Quantum Strategy,30,1,pillar RESEARCH PILLAR Research,ORG,not specified,not specified,not an actor,False,pillar RESEARCH PILLAR Research
+0,128,CAN,2022,Canada's National Quantum Strategy,30,2,Canada Excellence Research Chairs Program,ORG,not an actor,not an actor,Program; not an actor,False,Canada Excellence Research Chairs Program
+0,129,CAN,2022,Canada's National Quantum Strategy,30,2,CERC,ORG,not an actor,not an actor,Program; not an actor,False,CERC
+0,130,CAN,2022,Canada's National Quantum Strategy,30,3,New Frontiers in Research Fund,ORG,not an actor,not an actor,Fund; not an actor,False,New Frontiers in Research Fund
+0,131,CAN,2022,Canada's National Quantum Strategy,30,3,NFRF,ORG,not an actor,not an actor,Fund; not an actor,False,NFRF
+0,132,CAN,2022,Canada's National Quantum Strategy,31,1,NSERC-National Science Foundation,ORG,Government,Funding Agencies,International Partnership,True,National Science Foundation
+0,133,CAN,2022,Canada's National Quantum Strategy,31,1,NSF,ORG,Government,Funding Agencies,International Partnership,False,NSF
+0,134,CAN,2022,Canada's National Quantum Strategy,31,2,Innovation for Defence Excellence and Security,ORG,not an actor,not an actor,Program; not an actor,False,Innovation for Defence Excellence and Security
+0,135,CAN,2022,Canada's National Quantum Strategy,31,2,IDEaS,ORG,not an actor,not an actor,Program; not an actor,False,IDEaS
+0,136,CAN,2022,Canada's National Quantum Strategy,31,2,Defence Research and Development Canada,ORG,Government,Federal Research Organization,Federal Research Agency,False,Defence Research and Development Canada
+0,137,CAN,2022,Canada's National Quantum Strategy,31,2,DRDC,ORG,Government,Federal Research Organization,Federal Research Agency,False,DRDC
+0,138,CAN,2022,Canada's National Quantum Strategy,31,2,Innovation Fund – Canada Foundation for Innovation,ORG,Government,Funding Agencies,Funding,True,Canada Foundation for Innovation
+0,139,CAN,2022,Canada's National Quantum Strategy,31,3,Federal department,ORG,not specified,not specified,not specified,False,Federal department
+0,140,CAN,2022,Canada's National Quantum Strategy,31,4,John R. Evans Leaders Fund,ORG,not an actor,not an actor,Fund,False,John R. Evans Leaders Fund
+0,141,CAN,2022,Canada's National Quantum Strategy,31,5,CIIP,ORG,not an actor,not an actor,Program,False,CIIP
+0,142,CAN,2022,Canada's National Quantum Strategy,31,6,TALENT PILLAR Talent,ORG,not specified,not specified,not specified,False,TALENT PILLAR Talent
+0,143,CAN,2022,Canada's National Quantum Strategy,32,1,Global Talent Stream – Employment and Social Development Canada,ORG,Government,Policy Makers,Federal Department,True,Employment and Social Development Canada
+0,144,CAN,2022,Canada's National Quantum Strategy,32,1,ESDC,ORG,Government,Policy Makers,Federal Department,False,ESDC
+0,145,CAN,2022,Canada's National Quantum Strategy,32,1,Public Service Commission of Canada,ORG,Government,Government Support Services,Federal Agency,False,Public Service Commission of Canada
+0,146,CAN,2022,Canada's National Quantum Strategy,32,2,PTs,ORG,not an actor,not an actor,not an actor,False,PTs
+0,147,CAN,2022,Canada's National Quantum Strategy,32,3,Prairies Economic Development Canada,ORG,Government,Funding Agencies,Federal Agency,False,Prairies Economic Development Canada
+0,148,CAN,2022,Canada's National Quantum Strategy,32,3,Pacific Economic Development Canada,ORG,Government,Funding Agencies,Federal Agency,False,Pacific Economic Development Canada
+0,149,CAN,2022,Canada's National Quantum Strategy,32,3,ITB,ORG,not an actor,not an actor,Policy Framework; not an actor,False,ITB
+0,150,CAN,2022,Canada's National Quantum Strategy,32,3,ITB Policy,ORG,not an actor,not an actor,Policy Framework; not an actor,False,ITB Policy
+0,151,CAN,2022,Canada's National Quantum Strategy,32,3,Canadian Coast Guard,ORG,Government,Government Support Services,Federal Agency,False,Canadian Coast Guard
+0,152,CAN,2022,Canada's National Quantum Strategy,33,2,Canada Trade Commissioner Service – Global Affairs Canada,ORG,Government,Policy Makers,Federal Department; Ministry,True,Global Affairs Canada
+0,153,CAN,2022,Canada's National Quantum Strategy,33,2,Trade Commissioner Service,ORG,Government,Government Support Services,Federal Agency,False,Trade Commissioner Service
+0,154,CAN,2022,Canada's National Quantum Strategy,33,2,Regional Business Network,ORG,not specified,not specified,not specified,False,Regional Business Network
+0,155,CAN,2022,Canada's National Quantum Strategy,33,3,Space Technology Development Program,ORG,not an actor,not an actor,Program; not an actor,False,Space Technology Development Program
+0,156,CAN,2022,Canada's National Quantum Strategy,33,3,STDP,ORG,not an actor,not an actor,Program; not an actor,False,STDP
+0,157,CAN,2022,Canada's National Quantum Strategy,33,3,CSA,ORG,Government,Policy Makers,Space Agency,False,CSA
+0,158,CAN,2022,Canada's National Quantum Strategy,33,3,Deep Tech Venture Fund – Business Development Bank of Canada,ORG,Government,Bank,Corporate VC; Funding,True,Business Development Bank of Canada
+1,0,GER,2023,Quantum Technologies Conceptual Framework Programme,3,1,Federal Government,ORG,not specified,not specified,not specified,False,Federal Government
+1,1,GER,2023,Quantum Technologies Conceptual Framework Programme,3,2,Fed,ORG,not specified,not specified,not specified,False,Fed
+1,2,GER,2023,Quantum Technologies Conceptual Framework Programme,3,3,"Kagermann, H./Süssenguth, F./Körner, J./Liepold",ORG,,,,,
+1,3,GER,2023,Quantum Technologies Conceptual Framework Programme,3,3,A.,PER,,,,,
+1,4,GER,2023,Quantum Technologies Conceptual Framework Programme,3,3,Innovation Potential of Second-generation Quantum Technologies,ORG,,,,,
+1,5,GER,2023,Quantum Technologies Conceptual Framework Programme,3,3,IMPULS,ORG,,,,,
+1,6,GER,2023,Quantum Technologies Conceptual Framework Programme,3,3,Munich 2020,ORG,,,,,
+1,7,GER,2023,Quantum Technologies Conceptual Framework Programme,3,3,McKinsey & Company,ORG,,,,,
+1,8,GER,2023,Quantum Technologies Conceptual Framework Programme,3,3,Quantum Technology Monitor,ORG,,,,,
+1,9,GER,2023,Quantum Technologies Conceptual Framework Programme,3,3,Boston Consulting Group,ORG,,,,,
+1,10,GER,2023,Quantum Technologies Conceptual Framework Programme,3,3,Federal Office for Information Security,ORG,,,,,
+1,11,GER,2023,Quantum Technologies Conceptual Framework Programme,3,3,BSI,ORG,,,,,
+1,12,GER,2023,Quantum Technologies Conceptual Framework Programme,3,3,Krek,ORG,,,,,
+1,13,GER,2023,Quantum Technologies Conceptual Framework Programme,3,3,Ecole Polytechnique Paris,ORG,,,,,
+1,14,GER,2023,Quantum Technologies Conceptual Framework Programme,5,1,Eu,ORG,,,,,
+1,15,GER,2023,Quantum Technologies Conceptual Framework Programme,5,1,EU,ORG,,,,,
+1,16,GER,2023,Quantum Technologies Conceptual Framework Programme,5,2,BMI,ORG,,,,,
+1,17,GER,2023,Quantum Technologies Conceptual Framework Programme,5,2,BMF,ORG,,,,,
+1,18,GER,2023,Quantum Technologies Conceptual Framework Programme,6,4,BMBF,ORG,,,,,
+1,19,GER,2023,Quantum Technologies Conceptual Framework Programme,6,4,BMWK,ORG,,,,,
+1,20,GER,2023,Quantum Technologies Conceptual Framework Programme,6,7,Federal Government’s ‘Future Strategy for Research and Innovation’,ORG,,,,,
+1,21,GER,2023,Quantum Technologies Conceptual Framework Programme,9,2,USA,ORG,,,,,
+1,22,GER,2023,Quantum Technologies Conceptual Framework Programme,9,2,Google,ORG,,,,,
+1,23,GER,2023,Quantum Technologies Conceptual Framework Programme,9,2,IBM,ORG,,,,,
+1,24,GER,2023,Quantum Technologies Conceptual Framework Programme,9,2,NIST,ORG,,,,,
+1,25,GER,2023,Quantum Technologies Conceptual Framework Programme,9,3,Pfalz,PER,,,,,
+1,26,GER,2023,Quantum Technologies Conceptual Framework Programme,9,3,Maß der Einheiten,PER,,,,,
+1,27,GER,2023,Quantum Technologies Conceptual Framework Programme,9,3,National Metrology Institutes,ORG,,,,,
+1,28,GER,2023,Quantum Technologies Conceptual Framework Programme,10,1,NASA,ORG,,,,,
+1,29,GER,2023,Quantum Technologies Conceptual Framework Programme,10,1,DARPA,ORG,,,,,
+1,30,GER,2023,Quantum Technologies Conceptual Framework Programme,10,2,Federal Government’s Future Package,ORG,,,,,
+1,31,GER,2023,Quantum Technologies Conceptual Framework Programme,10,2,European Union,ORG,,,,,
+1,32,GER,2023,Quantum Technologies Conceptual Framework Programme,10,3,Enabling Technologies,ORG,,,,,
+1,33,GER,2023,Quantum Technologies Conceptual Framework Programme,11,8,Federal Govern­,ORG,,,,,
+1,34,GER,2023,Quantum Technologies Conceptual Framework Programme,16,1,Expert Commission on Research and Innovation17,ORG,,,,,
+1,35,GER,2023,Quantum Technologies Conceptual Framework Programme,16,3,"Kagermann, H./Süssenguth",ORG,,,,,
+1,36,GER,2023,Quantum Technologies Conceptual Framework Programme,16,3,F./Körner,PER,,,,,
+1,37,GER,2023,Quantum Technologies Conceptual Framework Programme,16,3,J./Liepold,PER,,,,,
+1,38,GER,2023,Quantum Technologies Conceptual Framework Programme,16,3,Commission of Experts for Research and Innovation,ORG,,,,,
+1,39,GER,2023,Quantum Technologies Conceptual Framework Programme,16,3,EFI,ORG,,,,,
+1,40,GER,2023,Quantum Technologies Conceptual Framework Programme,17,2,German Aer­ ospace Centre,ORG,,,,,
+1,41,GER,2023,Quantum Technologies Conceptual Framework Programme,17,2,DLR,ORG,,,,,
+1,42,GER,2023,Quantum Technologies Conceptual Framework Programme,17,3,Quantum Computing Initia,ORG,,,,,
+1,43,GER,2023,Quantum Technologies Conceptual Framework Programme,17,3,DeepTech & Climate Fonds,ORG,,,,,
+1,44,GER,2023,Quantum Technologies Conceptual Framework Programme,17,3,DTCF,ORG,,,,,
+1,45,GER,2023,Quantum Technologies Conceptual Framework Programme,17,3,Future Fund,ORG,,,,,
+1,46,GER,2023,Quantum Technologies Conceptual Framework Programme,17,3,HTGF,ORG,,,,,
+1,47,GER,2023,Quantum Technologies Conceptual Framework Programme,17,3,Germa,ORG,,,,,
+1,48,GER,2023,Quantum Technologies Conceptual Framework Programme,19,3,Roland Berger,PER,,,,,
+1,49,GER,2023,Quantum Technologies Conceptual Framework Programme,19,3,Roland Berger Focus,PER,,,,,
+1,50,GER,2023,Quantum Technologies Conceptual Framework Programme,19,3,Energieverbrauch bei der Produktion von mineralischem Stickstoffdünger,ORG,,,,,
+1,51,GER,2023,Quantum Technologies Conceptual Framework Programme,21,1,Federal Armed Forces,ORG,,,,,
+1,52,GER,2023,Quantum Technologies Conceptual Framework Programme,22,2,CEN-CENELEC Quantum Technology Focus Group,ORG,,,,,
+1,53,GER,2023,Quantum Technologies Conceptual Framework Programme,22,3,CENELEC Joint Technical Committee,ORG,,,,,
+1,54,GER,2023,Quantum Technologies Conceptual Framework Programme,22,3,CLC,ORG,,,,,
+1,55,GER,2023,Quantum Technologies Conceptual Framework Programme,22,3,JTC,ORG,,,,,
+1,56,GER,2023,Quantum Technologies Conceptual Framework Programme,22,3,European Standards for Quantum Technologies,ORG,,,,,
+1,57,GER,2023,Quantum Technologies Conceptual Framework Programme,22,3,ETSI Industry Specification Group,ORG,,,,,
+1,58,GER,2023,Quantum Technologies Conceptual Framework Programme,22,3,ISG,ORG,,,,,
+1,59,GER,2023,Quantum Technologies Conceptual Framework Programme,22,3,Quantum Key Distribution,ORG,,,,,
+1,60,GER,2023,Quantum Technologies Conceptual Framework Programme,22,3,QKD,ORG,,,,,
+1,61,GER,2023,Quantum Technologies Conceptual Framework Programme,22,3,28 Commission of Experts for Research and Innovation,ORG,,,,,
+1,62,GER,2023,Quantum Technologies Conceptual Framework Programme,23,1,CEN-CENELEC,ORG,,,,,
+1,63,GER,2023,Quantum Technologies Conceptual Framework Programme,23,1,DIN,ORG,,,,,
+1,64,GER,2023,Quantum Technologies Conceptual Framework Programme,23,3,National Institute of Standards and Technology of the U,ORG,,,,,
+1,65,GER,2023,Quantum Technologies Conceptual Framework Programme,23,3,S. Department of Commerce,ORG,,,,,
+1,66,GER,2023,Quantum Technologies Conceptual Framework Programme,25,3,Kagermann,ORG,,,,,
+1,67,GER,2023,Quantum Technologies Conceptual Framework Programme,25,3,"H./Süssenguth, F./Körner, J./Liepold",ORG,,,,,
+1,68,GER,2023,Quantum Technologies Conceptual Framework Programme,26,1,EuroHPC,ORG,,,,,
+1,69,GER,2023,Quantum Technologies Conceptual Framework Programme,26,2,Gauss Centre for Supercomputing,ORG,,,,,
+1,70,GER,2023,Quantum Technologies Conceptual Framework Programme,27,1,High-Tech Gründerfonds,ORG,,,,,
+1,71,GER,2023,Quantum Technologies Conceptual Framework Programme,27,1,Fonds,ORG,,,,,
+1,72,GER,2023,Quantum Technologies Conceptual Framework Programme,27,1,Federal Agency for Disruptive Innova­ tion SPRIN-D,ORG,,,,,
+1,73,GER,2023,Quantum Technologies Conceptual Framework Programme,27,3,Quantentechnologien,ORG,,,,,
+1,74,GER,2023,Quantum Technologies Conceptual Framework Programme,29,3,Roadmap Quantencomputing,ORG,,,,,
+1,75,GER,2023,Quantum Technologies Conceptual Framework Programme,29,3,56 Federation of German Industries,ORG,,,,,
+1,76,GER,2023,Quantum Technologies Conceptual Framework Programme,29,3,BDI,ORG,,,,,
+1,77,GER,2023,Quantum Technologies Conceptual Framework Programme,29,3,Bitkom,ORG,,,,,
+1,78,GER,2023,Quantum Technologies Conceptual Framework Programme,29,3,Leitfaden Quantentechnologien in Unternehmen,ORG,,,,,
+1,79,GER,2023,Quantum Technologies Conceptual Framework Programme,29,3,Deutsche Bank,ORG,,,,,
+1,80,GER,2023,Quantum Technologies Conceptual Framework Programme,30,2,Federal Government The Federal Government,ORG,,,,,
+1,81,GER,2023,Quantum Technologies Conceptual Framework Programme,31,3,Federal Ministry of Education and Research,ORG,,,,,
+1,82,GER,2023,Quantum Technologies Conceptual Framework Programme,32,1,Horizon Europe,ORG,,,,,
+1,83,GER,2023,Quantum Technologies Conceptual Framework Programme,32,1,Digital Europe,ORG,,,,,
+1,84,GER,2023,Quantum Technologies Conceptual Framework Programme,32,1,QuantERA,ORG,,,,,
+1,85,GER,2023,Quantum Technologies Conceptual Framework Programme,32,1,EU Commission,ORG,,,,,
+1,86,GER,2023,Quantum Technologies Conceptual Framework Programme,32,1,ESA,ORG,,,,,
+1,87,GER,2023,Quantum Technologies Conceptual Framework Programme,32,1,EuroQCI,ORG,,,,,
+1,88,GER,2023,Quantum Technologies Conceptual Framework Programme,32,1,SAGA,ORG,,,,,
+1,89,GER,2023,Quantum Technologies Conceptual Framework Programme,32,3,I. P.,PER,,,,,
+1,90,GER,2023,Quantum Technologies Conceptual Framework Programme,32,3,European Association of National Metrology Institutes,ORG,,,,,
+1,91,GER,2023,Quantum Technologies Conceptual Framework Programme,32,3,European Commission,ORG,,,,,
+1,92,GER,2023,Quantum Technologies Conceptual Framework Programme,35,3,Annex,ORG,,,,,
+1,93,GER,2023,Quantum Technologies Conceptual Framework Programme,36,1,Annex,PER,,,,,
+1,94,GER,2023,Quantum Technologies Conceptual Framework Programme,36,2,Federal Government68 The Future Strategy for Research and Innovation,ORG,,,,,
+1,95,GER,2023,Quantum Technologies Conceptual Framework Programme,36,4,Federal Government: Future Research and Innovation Strategy,ORG,,,,,
+1,96,GER,2023,Quantum Technologies Conceptual Framework Programme,36,4,Federal Ministry for Digital and Transport BMDV,ORG,,,,,
+1,97,GER,2023,Quantum Technologies Conceptual Framework Programme,36,4,Digitalstrategie Deutschland,ORG,,,,,
+1,98,GER,2023,Quantum Technologies Conceptual Framework Programme,37,2,Cyber Security Strategy for Germany,ORG,,,,,
+1,99,GER,2023,Quantum Technologies Conceptual Framework Programme,37,2,Cyber Security Strategy,ORG,,,,,
+1,100,GER,2023,Quantum Technologies Conceptual Framework Programme,37,2,Federal States,ORG,,,,,
+1,101,GER,2023,Quantum Technologies Conceptual Framework Programme,37,2,European Cybersecurity,ORG,,,,,
+1,102,GER,2023,Quantum Technologies Conceptual Framework Programme,37,3,Federal Ministry of Education and Research BMBF,ORG,,,,,
+1,103,GER,2023,Quantum Technologies Conceptual Framework Programme,37,3,Forschungsprogramm Quantensysteme Spitzentechnologie entwickeln,ORG,,,,,
+1,104,GER,2023,Quantum Technologies Conceptual Framework Programme,37,3,Sicher,PER,,,,,
+1,105,GER,2023,Quantum Technologies Conceptual Framework Programme,37,3,Souverän,ORG,,,,,
+1,106,GER,2023,Quantum Technologies Conceptual Framework Programme,37,3,Federal Ministry of Education,ORG,,,,,
+1,107,GER,2023,Quantum Technologies Conceptual Framework Programme,37,3,Zeitalter,ORG,,,,,
+1,108,GER,2023,Quantum Technologies Conceptual Framework Programme,37,3,Mikroelektronik,ORG,,,,,
+1,109,GER,2023,Quantum Technologies Conceptual Framework Programme,37,3,Für Deutschland,ORG,,,,,
+1,110,GER,2023,Quantum Technologies Conceptual Framework Programme,37,3,Europa,ORG,,,,,
+1,111,GER,2023,Quantum Technologies Conceptual Framework Programme,37,3,Federal Ministry of the Interior and Community BMI,ORG,,,,,
+1,112,GER,2023,Quantum Technologies Conceptual Framework Programme,38,1,Agentur für Innovation in der Cybersicherheit GmbH,ORG,,,,,
+1,113,GER,2023,Quantum Technologies Conceptual Framework Programme,38,2,Cybersecurity Strategy for Germany,ORG,,,,,
+1,114,GER,2023,Quantum Technologies Conceptual Framework Programme,38,2,Space Agency,ORG,,,,,
+1,115,GER,2023,Quantum Technologies Conceptual Framework Programme,38,2,National Programme for Space and Innovation,ORG,,,,,
+1,116,GER,2023,Quantum Technologies Conceptual Framework Programme,38,3,Federal Ministry for Economic Affairs and Climate Action,ORG,,,,,
+1,117,GER,2023,Quantum Technologies Conceptual Framework Programme,39,2,ISO,ORG,,,,,
+1,118,GER,2023,Quantum Technologies Conceptual Framework Programme,39,2,IEC,ORG,,,,,
+1,119,GER,2023,Quantum Technologies Conceptual Framework Programme,39,2,FrodoKEM,ORG,,,,,
+1,120,GER,2023,Quantum Technologies Conceptual Framework Programme,39,5,NISQ,ORG,,,,,
+1,121,GER,2023,Quantum Technologies Conceptual Framework Programme,40,1,entwicklung der Kryptobibliothek Botan,ORG,,,,,
+1,122,GER,2023,Quantum Technologies Conceptual Framework Programme,40,1,BSI Integration von Post-Quanten Kryptografie,ORG,,,,,
+1,123,GER,2023,Quantum Technologies Conceptual Framework Programme,40,1,E-Mail-Client Thunderbird,ORG,,,,,
+1,124,GER,2023,Quantum Technologies Conceptual Framework Programme,40,1,OpenPGP,ORG,,,,,
+1,125,GER,2023,Quantum Technologies Conceptual Framework Programme,40,1,Internet Engineering Task Force,ORG,,,,,
+1,126,GER,2023,Quantum Technologies Conceptual Framework Programme,40,1,IETF,ORG,,,,,
+1,127,GER,2023,Quantum Technologies Conceptual Framework Programme,40,1,European Telecommunications Standards Institute,ORG,,,,,
+1,128,GER,2023,Quantum Technologies Conceptual Framework Programme,40,1,ETSI,ORG,,,,,
+1,129,GER,2023,Quantum Technologies Conceptual Framework Programme,40,2,Physikalisch-Technische Bundesanstalt,ORG,,,,,
+1,130,GER,2023,Quantum Technologies Conceptual Framework Programme,40,2,National Metrology Institute of Ger­,ORG,,,,,
+1,131,GER,2023,Quantum Technologies Conceptual Framework Programme,40,2,PTB,ORG,,,,,
+1,132,GER,2023,Quantum Technologies Conceptual Framework Programme,40,2,Schirmprojekt Quantenkom,ORG,,,,,
+1,133,GER,2023,Quantum Technologies Conceptual Framework Programme,40,2,Deutschland,ORG,,,,,
+1,134,GER,2023,Quantum Technologies Conceptual Framework Programme,40,2,Quantum Communication Germany,ORG,,,,,
+1,135,GER,2023,Quantum Technologies Conceptual Framework Programme,40,2,Bundesdruckerei GmbH Bundesdruckerei GmbH,ORG,,,,,
+1,136,GER,2023,Quantum Technologies Conceptual Framework Programme,40,2,Maurer Electronics GmbH,ORG,,,,,
+1,137,GER,2023,Quantum Technologies Conceptual Framework Programme,40,2,Bundesdruckerei Group,ORG,,,,,
+1,138,GER,2023,Quantum Technologies Conceptual Framework Programme,40,2,Bundesdruckerei GmbH,ORG,,,,,
+1,139,GER,2023,Quantum Technologies Conceptual Framework Programme,41,1,Bundesdruckerei,ORG,,,,,
+1,140,GER,2023,Quantum Technologies Conceptual Framework Programme,41,1,Federal Administration,ORG,,,,,
+1,141,GER,2023,Quantum Technologies Conceptual Framework Programme,41,1,Federal Ministry of Finance,ORG,,,,,
+1,142,GER,2023,Quantum Technologies Conceptual Framework Programme,41,2,Federal Data Atlas,ORG,,,,,
+1,143,GER,2023,Quantum Technologies Conceptual Framework Programme,41,2,Federal AI Competence Centre,ORG,,,,,
+1,144,GER,2023,Quantum Technologies Conceptual Framework Programme,41,2,DB Sys,ORG,,,,,
+1,145,GER,2023,Quantum Technologies Conceptual Framework Programme,41,2,Bundesquantenallianz,ORG,,,,,
+1,146,GER,2023,Quantum Technologies Conceptual Framework Programme,41,2,BQA,ORG,,,,,
+1,147,GER,2023,Quantum Technologies Conceptual Framework Programme,41,2,BAM,ORG,,,,,
+1,148,GER,2023,Quantum Technologies Conceptual Framework Programme,41,2,BWI GmbH BWI GmbH,ORG,,,,,
+1,149,GER,2023,Quantum Technologies Conceptual Framework Programme,41,2,IT,ORG,,,,,
+1,150,GER,2023,Quantum Technologies Conceptual Framework Programme,41,2,BWI,ORG,,,,,
+1,151,GER,2023,Quantum Technologies Conceptual Framework Programme,41,2,Competence Centre Quantum Enabled Technologies’,ORG,,,,,
+1,152,GER,2023,Quantum Technologies Conceptual Framework Programme,41,2,Deutsche Forschungsgemeinschaft,ORG,,,,,
+1,153,GER,2023,Quantum Technologies Conceptual Framework Programme,41,2,German Research Foundation,ORG,,,,,
+1,154,GER,2023,Quantum Technologies Conceptual Framework Programme,41,2,DFG,ORG,,,,,
+1,155,GER,2023,Quantum Technologies Conceptual Framework Programme,42,1,Clusters of Excellence,ORG,,,,,
+1,156,GER,2023,Quantum Technologies Conceptual Framework Programme,42,1,European Research Area,ORG,,,,,
+1,157,GER,2023,Quantum Technologies Conceptual Framework Programme,42,1,QCDE,ORG,,,,,
+1,158,GER,2023,Quantum Technologies Conceptual Framework Programme,42,2,Deutscher Wetterdienst,ORG,,,,,
+1,159,GER,2023,Quantum Technologies Conceptual Framework Programme,42,2,German Weather Service,ORG,,,,,
+1,160,GER,2023,Quantum Technologies Conceptual Framework Programme,42,2,ICON,ORG,,,,,
+1,161,GER,2023,Quantum Technologies Conceptual Framework Programme,42,2,DWD,ORG,,,,,
+1,162,GER,2023,Quantum Technologies Conceptual Framework Programme,42,2,Max Planck Institut für Meteorology,ORG,,,,,
+1,163,GER,2023,Quantum Technologies Conceptual Framework Programme,42,2,MPI-M,ORG,,,,,
+1,164,GER,2023,Quantum Technologies Conceptual Framework Programme,42,2,German Climate Computing Center,ORG,,,,,
+1,165,GER,2023,Quantum Technologies Conceptual Framework Programme,42,2,DKRZ,ORG,,,,,
+1,166,GER,2023,Quantum Technologies Conceptual Framework Programme,42,2,Karlsruhe Institute of Technologe,ORG,,,,,
+1,167,GER,2023,Quantum Technologies Conceptual Framework Programme,42,2,KIT,ORG,,,,,
+1,168,GER,2023,Quantum Technologies Conceptual Framework Programme,42,2,Cyber Defence and Smart Data Research Institute,ORG,,,,,
+1,169,GER,2023,Quantum Technologies Conceptual Framework Programme,42,2,FI,ORG,,,,,
+1,170,GER,2023,Quantum Technologies Conceptual Framework Programme,42,2,University of the Bundeswehr Munich The FI CODE,ORG,,,,,
+1,171,GER,2023,Quantum Technologies Conceptual Framework Programme,42,3,Quantum Frontier,ORG,,,,,
+1,172,GER,2023,Quantum Technologies Conceptual Framework Programme,42,3,QuantumFrontiers,ORG,,,,,
+1,173,GER,2023,Quantum Technologies Conceptual Framework Programme,42,3,Advanced Imaging of Matter,ORG,,,,,
+1,174,GER,2023,Quantum Technologies Conceptual Framework Programme,42,3,CUI,ORG,,,,,
+1,175,GER,2023,Quantum Technologies Conceptual Framework Programme,42,3,Munich Center for Quantum Science and Technology,ORG,,,,,
+1,176,GER,2023,Quantum Technologies Conceptual Framework Programme,42,3,MCQST,ORG,,,,,
+1,177,GER,2023,Quantum Technologies Conceptual Framework Programme,42,3,Quantum Information,ORG,,,,,
+1,178,GER,2023,Quantum Technologies Conceptual Framework Programme,42,3,ML4Q,ORG,,,,,
+1,179,GER,2023,Quantum Technologies Conceptual Framework Programme,43,1,FI CODE,ORG,,,,,
+1,180,GER,2023,Quantum Technologies Conceptual Framework Programme,43,1,IBM Q Hub,ORG,,,,,
+1,181,GER,2023,Quantum Technologies Conceptual Framework Programme,43,1,Fraunhofer Society for the Promotion of Applied Research,ORG,,,,,
+1,182,GER,2023,Quantum Technologies Conceptual Framework Programme,43,1,FhG,ORG,,,,,
+1,183,GER,2023,Quantum Technologies Conceptual Framework Programme,43,1,Fraunhofer-Gesellschaft,ORG,,,,,
+1,184,GER,2023,Quantum Technologies Conceptual Framework Programme,43,2,IBM Deutschland GmbH,ORG,,,,,
+1,185,GER,2023,Quantum Technologies Conceptual Framework Programme,43,4,Gesellschaft,ORG,,,,,
+1,186,GER,2023,Quantum Technologies Conceptual Framework Programme,43,5,Forschungsfabrik Mikroelektronik Deutschland,ORG,,,,,
+1,187,GER,2023,Quantum Technologies Conceptual Framework Programme,43,5,FMD,ORG,,,,,
+1,188,GER,2023,Quantum Technologies Conceptual Framework Programme,44,1,Helmholtz-Gemeinschaft Deutscher Forschungszentren,ORG,,,,,
+1,189,GER,2023,Quantum Technologies Conceptual Framework Programme,44,1,Helmholtz Association of German Research Centres,ORG,,,,,
+1,190,GER,2023,Quantum Technologies Conceptual Framework Programme,44,1,HGF,ORG,,,,,
+1,191,GER,2023,Quantum Technologies Conceptual Framework Programme,44,1,The Helmholtz Centres,ORG,,,,,
+1,192,GER,2023,Quantum Technologies Conceptual Framework Programme,44,1,Helmholtz Quantum,ORG,,,,,
+1,193,GER,2023,Quantum Technologies Conceptual Framework Programme,44,2,Helmholtz Association,ORG,,,,,
+1,194,GER,2023,Quantum Technologies Conceptual Framework Programme,44,3,German Electron Synchrotron,ORG,,,,,
+1,195,GER,2023,Quantum Technologies Conceptual Framework Programme,44,3,DESY,ORG,,,,,
+1,196,GER,2023,Quantum Technologies Conceptual Framework Programme,44,3,German Aerospace Centre,ORG,,,,,
+1,197,GER,2023,Quantum Technologies Conceptual Framework Programme,44,3,Jülich Research Centre,ORG,,,,,
+1,198,GER,2023,Quantum Technologies Conceptual Framework Programme,44,3,FZJ,ORG,,,,,
+1,199,GER,2023,Quantum Technologies Conceptual Framework Programme,44,3,GSI Helmholtz Centre for Heavy Ion Research,ORG,,,,,
+1,200,GER,2023,Quantum Technologies Conceptual Framework Programme,44,3,GSI,ORG,,,,,
+1,201,GER,2023,Quantum Technologies Conceptual Framework Programme,44,3,Helmholtz-Zentrum Berlin,ORG,,,,,
+1,202,GER,2023,Quantum Technologies Conceptual Framework Programme,44,3,HZB,ORG,,,,,
+1,203,GER,2023,Quantum Technologies Conceptual Framework Programme,44,3,Helmholtz-Zentrum Dresden Rossendorf,ORG,,,,,
+1,204,GER,2023,Quantum Technologies Conceptual Framework Programme,44,3,HZDR,ORG,,,,,
+1,205,GER,2023,Quantum Technologies Conceptual Framework Programme,44,3,Karlsruhe Institute of Technology,ORG,,,,,
+1,206,GER,2023,Quantum Technologies Conceptual Framework Programme,45,1,Helmholtz,ORG,,,,,
+1,207,GER,2023,Quantum Technologies Conceptual Framework Programme,45,2,DLR Quantum Computing Initiative,ORG,,,,,
+1,208,GER,2023,Quantum Technologies Conceptual Framework Programme,45,2,Max-Planck-Gesellschaft zur Förderung der Wissenschaften,ORG,,,,,
+1,209,GER,2023,Quantum Technologies Conceptual Framework Programme,45,2,Max Planck Society for the Advancement of Science,ORG,,,,,
+1,210,GER,2023,Quantum Technologies Conceptual Framework Programme,45,2,Max Planck Society,ORG,,,,,
+1,211,GER,2023,Quantum Technologies Conceptual Framework Programme,45,2,MPG,ORG,,,,,
+1,212,GER,2023,Quantum Technologies Conceptual Framework Programme,45,2,Max Planck Institute,ORG,,,,,
+1,213,GER,2023,Quantum Technologies Conceptual Framework Programme,45,2,MPI,ORG,,,,,
+1,214,GER,2023,Quantum Technologies Conceptual Framework Programme,45,2,Quantum Optics,ORG,,,,,
+1,215,GER,2023,Quantum Technologies Conceptual Framework Programme,45,2,MPI for Gravitational Physics,ORG,,,,,
+1,216,GER,2023,Quantum Technologies Conceptual Framework Programme,45,2,Physics of Complex Systems,ORG,,,,,
+1,217,GER,2023,Quantum Technologies Conceptual Framework Programme,45,2,Physics of Light,ORG,,,,,
+1,218,GER,2023,Quantum Technologies Conceptual Framework Programme,45,2,Max Planck Institutes for Solid State Research in Stuttgart,ORG,,,,,
+1,219,GER,2023,Quantum Technologies Conceptual Framework Programme,45,2,Structure and Dynamics of Matter,ORG,,,,,
+1,220,GER,2023,Quantum Technologies Conceptual Framework Programme,45,2,Fritz Haber Institute,ORG,,,,,
+1,221,GER,2023,Quantum Technologies Conceptual Framework Programme,45,3,German Aerospace Center,ORG,,,,,
+1,222,GER,2023,Quantum Technologies Conceptual Framework Programme,45,3,Erste quantengesicherte Videokonferenz zwischen zwei Bundesbehörden,ORG,,,,,
+1,223,GER,2023,Quantum Technologies Conceptual Framework Programme,46,1,QST,ORG,,,,,
+1,224,GER,2023,Quantum Technologies Conceptual Framework Programme,46,2,Max Planck Quantum Alliance,ORG,,,,,
+1,225,GER,2023,Quantum Technologies Conceptual Framework Programme,46,2,MPQA,ORG,,,,,
+1,226,GER,2023,Quantum Technologies Conceptual Framework Programme,46,2,MQV,ORG,,,,,
+1,227,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,Bavarian Academy of Sciences and Humanities,ORG,,,,,
+1,228,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,BAdW,ORG,,,,,
+1,229,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,Ludwig-­ Maximilians-Universität München,ORG,,,,,
+1,230,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,LMU,ORG,,,,,
+1,231,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,Tech,ORG,,,,,
+1,232,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,nische Universität München,ORG,,,,,
+1,233,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,TUM,ORG,,,,,
+1,234,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,Friedrich,ORG,,,,,
+1,235,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,Alexander-Universität Erlangen-Nürnberg,ORG,,,,,
+1,236,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,FAU,ORG,,,,,
+1,237,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,Fraunhofer Gesellschaft,ORG,,,,,
+1,238,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,MQV Association,ORG,,,,,
+1,239,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,Free State of Bavaria,ORG,,,,,
+1,240,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,Quantum Technologies Stimulus Package,ORG,,,,,
+1,241,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,ZQQ,ORG,,,,,
+1,242,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,Airbus,ORG,,,,,
+1,243,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,BMW,ORG,,,,,
+1,244,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,Fujitsu,ORG,,,,,
+1,245,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,Huawei,ORG,,,,,
+1,246,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,Infineon,ORG,,,,,
+1,247,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,Menlo Systems,ORG,,,,,
+1,248,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,Microsoft,ORG,,,,,
+1,249,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,OHB,ORG,,,,,
+1,250,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,Rohde&Schwarz,ORG,,,,,
+1,251,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,Siemens,ORG,,,,,
+1,252,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,Toptica Photonics,ORG,,,,,
+1,253,GER,2023,Quantum Technologies Conceptual Framework Programme,47,1,Volkswagen,ORG,,,,,
+1,254,GER,2023,Quantum Technologies Conceptual Framework Programme,47,2,National Metrology Institute of Germany,ORG,,,,,
+1,255,GER,2023,Quantum Technologies Conceptual Framework Programme,47,2,Federal Institute of Metrology,ORG,,,,,
+1,256,GER,2023,Quantum Technologies Conceptual Framework Programme,47,2,SI,ORG,,,,,
+1,257,GER,2023,Quantum Technologies Conceptual Framework Programme,47,2,QT,ORG,,,,,
+1,258,GER,2023,Quantum Technologies Conceptual Framework Programme,47,2,Quantum Technology Competence Centre,ORG,,,,,
+1,259,GER,2023,Quantum Technologies Conceptual Framework Programme,47,2,QTZ,ORG,,,,,
+1,260,GER,2023,Quantum Technologies Conceptual Framework Programme,47,2,Markt,ORG,,,,,
+1,261,GER,2023,Quantum Technologies Conceptual Framework Programme,48,5,Quantum Valley Lower Saxony,ORG,,,,,
+1,262,GER,2023,Quantum Technologies Conceptual Framework Programme,48,5,QVLS,ORG,,,,,
+1,263,GER,2023,Quantum Technologies Conceptual Framework Programme,49,1,Joint Technical Committee JTC 22,ORG,,,,,
+1,264,GER,2023,Quantum Technologies Conceptual Framework Programme,49,1,Wissenschaftsgemeinschaft Gottfried Wilhelm Leibniz,PER,,,,,
+1,265,GER,2023,Quantum Technologies Conceptual Framework Programme,49,1,Leibniz Association,ORG,,,,,
+1,266,GER,2023,Quantum Technologies Conceptual Framework Programme,49,2,Ferdinand Braun Institute,ORG,,,,,
+1,267,GER,2023,Quantum Technologies Conceptual Framework Programme,49,2,Leibniz Institute for Highest Frequency Technology,ORG,,,,,
+1,268,GER,2023,Quantum Technologies Conceptual Framework Programme,49,2,FBH,ORG,,,,,
+1,269,GER,2023,Quantum Technologies Conceptual Framework Programme,49,2,Leibniz Institute for Solid State and Mate­ rials Research,ORG,,,,,
+1,270,GER,2023,Quantum Technologies Conceptual Framework Programme,49,2,IFW,ORG,,,,,
+1,271,GER,2023,Quantum Technologies Conceptual Framework Programme,49,2,Leibniz Institute for Innova,ORG,,,,,
+1,272,GER,2023,Quantum Technologies Conceptual Framework Programme,49,2,tive Microelectronics,ORG,,,,,
+1,273,GER,2023,Quantum Technologies Conceptual Framework Programme,49,2,IHP,ORG,,,,,
+1,274,GER,2023,Quantum Technologies Conceptual Framework Programme,49,2,Leibniz Institute for Crystal Growth,ORG,,,,,
+1,275,GER,2023,Quantum Technologies Conceptual Framework Programme,49,2,IKZ,ORG,,,,,
+1,276,GER,2023,Quantum Technologies Conceptual Framework Programme,49,2,Leibniz Institute for Surface Modification,ORG,,,,,
+1,277,GER,2023,Quantum Technologies Conceptual Framework Programme,49,2,IOM,ORG,,,,,
+1,278,GER,2023,Quantum Technologies Conceptual Framework Programme,49,2,Leibniz Institute for Photonic Technologies,ORG,,,,,
+1,279,GER,2023,Quantum Technologies Conceptual Framework Programme,49,2,IPHT,ORG,,,,,
+1,280,GER,2023,Quantum Technologies Conceptual Framework Programme,49,2,Paul Drude Institute for Solid State Electronics,ORG,,,,,
+1,281,GER,2023,Quantum Technologies Conceptual Framework Programme,49,2,PDI,ORG,,,,,
+1,282,GER,2023,Quantum Technologies Conceptual Framework Programme,49,2,Weierstrass Institute for Applied Analysis and Stochastics,ORG,,,,,
+1,283,GER,2023,Quantum Technologies Conceptual Framework Programme,49,2,WIAS,ORG,,,,,
+1,284,GER,2023,Quantum Technologies Conceptual Framework Programme,50,1,Leibniz Institutes,ORG,,,,,
+1,285,GER,2023,Quantum Technologies Conceptual Framework Programme,51,1,Research Factory Microelectronics Germany,ORG,,,,,
+1,286,GER,2023,Quantum Technologies Conceptual Framework Programme,51,1,QSolid,ORG,,,,,
+1,287,GER,2023,Quantum Technologies Conceptual Framework Programme,51,1,Quantum Computers,ORG,,,,,
+1,288,GER,2023,Quantum Technologies Conceptual Framework Programme,51,1,Munich Quantum Valley Quantum Comput,ORG,,,,,
+1,289,GER,2023,Quantum Technologies Conceptual Framework Programme,51,1,BECCAL,ORG,,,,,
+1,290,GER,2023,Quantum Technologies Conceptual Framework Programme,51,1,Bose-Einstein Condensate,ORG,,,,,
+1,291,GER,2023,Quantum Technologies Conceptual Framework Programme,51,1,Cold Atom Lab,ORG,,,,,
+1,292,GER,2023,Quantum Technologies Conceptual Framework Programme,51,1,International Space Station,ORG,,,,,
+1,293,GER,2023,Quantum Technologies Conceptual Framework Programme,51,1,Leibniz,ORG,,,,,
+1,294,GER,2023,Quantum Technologies Conceptual Framework Programme,51,2,Zentrum für Digitalisierungs,ORG,,,,,
+1,295,GER,2023,Quantum Technologies Conceptual Framework Programme,51,2,gieforschung der Bundeswehr,ORG,,,,,
+1,296,GER,2023,Quantum Technologies Conceptual Framework Programme,51,2,Centre for Digitisation and Technology Research of the Bundeswehr,ORG,,,,,
+1,297,GER,2023,Quantum Technologies Conceptual Framework Programme,51,2,German Armed Forces,ORG,,,,,
+1,298,GER,2023,Quantum Technologies Conceptual Framework Programme,51,2,Corona-Folgen bekämpfen,ORG,,,,,
+1,299,GER,2023,Quantum Technologies Conceptual Framework Programme,51,2,Fighting the Consequences of Covid,ORG,,,,,
+1,300,GER,2023,Quantum Technologies Conceptual Framework Programme,51,2,BMVg,ORG,,,,,
+1,301,GER,2023,Quantum Technologies Conceptual Framework Programme,51,2,Bundeswehr,ORG,,,,,
+1,302,GER,2023,Quantum Technologies Conceptual Framework Programme,51,2,University of the Bundeswehr Munich,ORG,,,,,
+2,0,UK,2023,National Quantum Strategy,2,1,Quantum,ORG,,,,,
+2,1,UK,2023,National Quantum Strategy,2,1,"Department for Science, Innovation and Technology",ORG,,,,,
+2,2,UK,2023,National Quantum Strategy,2,1,DSIT,ORG,,,,,
+2,3,UK,2023,National Quantum Strategy,3,1,Rt Hon Michelle Donelan,ORG,,,,,
+2,4,UK,2023,National Quantum Strategy,3,1,"State for Science, Innovation and Technology",ORG,,,,,
+2,5,UK,2023,National Quantum Strategy,4,1,McKinsey & Company,ORG,,,,,
+2,6,UK,2023,National Quantum Strategy,5,1,UK National Quantum Technologies Programme,ORG,,,,,
+2,7,UK,2023,National Quantum Strategy,5,1,NQTP,ORG,,,,,
+2,8,UK,2023,National Quantum Strategy,5,1,Quantum Insider,ORG,,,,,
+2,9,UK,2023,National Quantum Strategy,6,1,National Physical Laboratory,ORG,,,,,
+2,10,UK,2023,National Quantum Strategy,6,1,UK Quantum Technologies Challenge,ORG,,,,,
+2,11,UK,2023,National Quantum Strategy,6,1,The Directory,ORG,,,,,
+2,12,UK,2023,National Quantum Strategy,6,1,UKRI,ORG,,,,,
+2,13,UK,2023,National Quantum Strategy,7,1,National Science and Technology Council,ORG,,,,,
+2,14,UK,2023,National Quantum Strategy,9,4,National Quantum Computing Centre,ORG,,,,,
+2,15,UK,2023,National Quantum Strategy,10,1,International Science Partnerships Fund,ORG,,,,,
+2,16,UK,2023,National Quantum Strategy,10,1,Commission,ORG,,,,,
+2,17,UK,2023,National Quantum Strategy,11,1,Office for Quantum,ORG,,,,,
+2,18,UK,2023,National Quantum Strategy,11,1,National Quantum Technologies Programme,ORG,,,,,
+2,19,UK,2023,National Quantum Strategy,11,1,Strategic Advisory Board,ORG,,,,,
+2,20,UK,2023,National Quantum Strategy,11,1,Peter Knight,PER,,,,,
+2,21,UK,2023,National Quantum Strategy,11,1,Institute of Physics,ORG,,,,,
+2,22,UK,2023,National Quantum Strategy,11,1,Institution of Engineering and Technology,ORG,,,,,
+2,23,UK,2023,National Quantum Strategy,11,1,Royal Academy of Engineering,ORG,,,,,
+2,24,UK,2023,National Quantum Strategy,11,1,UKQuantum,ORG,,,,,
+2,25,UK,2023,National Quantum Strategy,12,1,Artur Ekert,PER,,,,,
+2,26,UK,2023,National Quantum Strategy,13,1,National Quantum Technologies Programme The UK,ORG,,,,,
+2,27,UK,2023,National Quantum Strategy,13,1,Quantum Research Hubs,ORG,,,,,
+2,28,UK,2023,National Quantum Strategy,13,1,Engineering and Physical Sciences Research Council,ORG,,,,,
+2,29,UK,2023,National Quantum Strategy,13,1,EPSRC,ORG,,,,,
+2,30,UK,2023,National Quantum Strategy,13,1,Innovate UK,ORG,,,,,
+2,31,UK,2023,National Quantum Strategy,13,1,NQCC,ORG,,,,,
+2,32,UK,2023,National Quantum Strategy,13,1,Quantum Metrology Institute,ORG,,,,,
+2,33,UK,2023,National Quantum Strategy,13,1,NPL,ORG,,,,,
+2,34,UK,2023,National Quantum Strategy,13,1,Centres for Doctoral Training,ORG,,,,,
+2,35,UK,2023,National Quantum Strategy,13,1,CDTs,ORG,,,,,
+2,36,UK,2023,National Quantum Strategy,13,1,MoD,ORG,,,,,
+2,37,UK,2023,National Quantum Strategy,13,1,Defence Science and Technology Laboratory,ORG,,,,,
+2,38,UK,2023,National Quantum Strategy,13,1,Dstl,ORG,,,,,
+2,39,UK,2023,National Quantum Strategy,14,1,STFC,ORG,,,,,
+2,40,UK,2023,National Quantum Strategy,15,1,UK Strengths Today,ORG,,,,,
+2,41,UK,2023,National Quantum Strategy,15,1,Fraunhofer Centre for Applied Photonics,ORG,,,,,
+2,42,UK,2023,National Quantum Strategy,15,1,Universities of York,ORG,,,,,
+2,43,UK,2023,National Quantum Strategy,15,1,National Hubs,ORG,,,,,
+2,44,UK,2023,National Quantum Strategy,15,1,UK National Quantum Hub in Sensors and Timing and Defence Science and Technology Laboratory,ORG,,,,,
+2,45,UK,2023,National Quantum Strategy,15,1,RSK,ORG,,,,,
+2,46,UK,2023,National Quantum Strategy,15,1,Teledyne e2V,ORG,,,,,
+2,47,UK,2023,National Quantum Strategy,15,1,Elsevier BV,ORG,,,,,
+2,48,UK,2023,National Quantum Strategy,16,1,UK Commercialising Quantum Challenge,ORG,,,,,
+2,49,UK,2023,National Quantum Strategy,17,1,European Union19,ORG,,,,,
+2,50,UK,2023,National Quantum Strategy,17,2,US National Science and Technology Council,ORG,,,,,
+2,51,UK,2023,National Quantum Strategy,19,1,Science and Technology Framework,ORG,,,,,
+2,52,UK,2023,National Quantum Strategy,20,1,Framework,ORG,,,,,
+2,53,UK,2023,National Quantum Strategy,20,1,National Quantum Strategy,ORG,,,,,
+2,54,UK,2023,National Quantum Strategy,21,1,Government,ORG,,,,,
+2,55,UK,2023,National Quantum Strategy,21,1,Quantum Technology Research Hubs and Centres,ORG,,,,,
+2,56,UK,2023,National Quantum Strategy,23,2,PNT,ORG,,,,,
+2,57,UK,2023,National Quantum Strategy,23,3,Ernst & Young,ORG,,,,,
+2,58,UK,2023,National Quantum Strategy,24,1,EPSRC’s Centres for Doctoral Training,ORG,,,,,
+2,59,UK,2023,National Quantum Strategy,24,1,Joint EPSRC,ORG,,,,,
+2,60,UK,2023,National Quantum Strategy,24,1,UKRI Future Leaders Fellowship,ORG,,,,,
+2,61,UK,2023,National Quantum Strategy,24,1,STFC Ernest Rutherford Fellowships,ORG,,,,,
+2,62,UK,2023,National Quantum Strategy,24,1,WISE Campaign,ORG,,,,,
+2,63,UK,2023,National Quantum Strategy,25,1,Royal Society,ORG,,,,,
+2,64,UK,2023,National Quantum Strategy,25,1,Institution of Engineering & Technology,ORG,,,,,
+2,65,UK,2023,National Quantum Strategy,25,1,IET,ORG,,,,,
+2,66,UK,2023,National Quantum Strategy,25,1,IoP,ORG,,,,,
+2,67,UK,2023,National Quantum Strategy,26,1,UK Science and Technology Framework,ORG,,,,,
+2,68,UK,2023,National Quantum Strategy,26,1,Department for Education,ORG,,,,,
+2,69,UK,2023,National Quantum Strategy,26,1,Quantum Technologies,ORG,,,,,
+2,70,UK,2023,National Quantum Strategy,26,1,PhD,ORG,,,,,
+2,71,UK,2023,National Quantum Strategy,26,1,Quantum Skills Taskforce,ORG,,,,,
+2,72,UK,2023,National Quantum Strategy,27,1,Quantum Technologies for Fundamental Physics,ORG,,,,,
+2,73,UK,2023,National Quantum Strategy,27,1,QTFP,ORG,,,,,
+2,74,UK,2023,National Quantum Strategy,27,1,OECD,ORG,,,,,
+2,75,UK,2023,National Quantum Strategy,27,1,Global Technology Forum,ORG,,,,,
+2,76,UK,2023,National Quantum Strategy,27,1,World Economic Forum,ORG,,,,,
+2,77,UK,2023,National Quantum Strategy,27,1,G7,ORG,,,,,
+2,78,UK,2023,National Quantum Strategy,27,1,NATO,ORG,,,,,
+2,79,UK,2023,National Quantum Strategy,27,1,AUKUS,ORG,,,,,
+2,80,UK,2023,National Quantum Strategy,27,1,Institute of Electrical and Electronics Engineers,ORG,,,,,
+2,81,UK,2023,National Quantum Strategy,27,1,Science and Technology Facilities Council,ORG,,,,,
+2,82,UK,2023,National Quantum Strategy,28,1,Standards Association,ORG,,,,,
+2,83,UK,2023,National Quantum Strategy,28,1,International Organization for Standardization and International Electrotechnical Commission,ORG,,,,,
+2,84,UK,2023,National Quantum Strategy,28,1,UK International Tech Strategy,ORG,,,,,
+2,85,UK,2023,National Quantum Strategy,28,1,NIST,ORG,,,,,
+2,86,UK,2023,National Quantum Strategy,29,1,Quantum Motion,ORG,,,,,
+2,87,UK,2023,National Quantum Strategy,29,1,Robert Bosch Venture Capital,ORG,,,,,
+2,88,UK,2023,National Quantum Strategy,29,1,British Patient Capital,ORG,,,,,
+2,89,UK,2023,National Quantum Strategy,29,1,ISCF,ORG,,,,,
+2,90,UK,2023,National Quantum Strategy,30,1,Institute of Engineering and Technology,ORG,,,,,
+2,91,UK,2023,National Quantum Strategy,30,1,Harwell Campus,ORG,,,,,
+2,92,UK,2023,National Quantum Strategy,31,1,National Dark Fibre Facility,ORG,,,,,
+2,93,UK,2023,National Quantum Strategy,31,1,Catapults,ORG,,,,,
+2,94,UK,2023,National Quantum Strategy,31,1,National Centre for Digital Innovation,ORG,,,,,
+2,95,UK,2023,National Quantum Strategy,31,1,IBM,ORG,,,,,
+2,96,UK,2023,National Quantum Strategy,31,1,Glentanglement®,ORG,,,,,
+2,97,UK,2023,National Quantum Strategy,31,1,Coherent Scotland and M Squared,ORG,,,,,
+2,98,UK,2023,National Quantum Strategy,31,1,University of Glasgow,ORG,,,,,
+2,99,UK,2023,National Quantum Strategy,31,1,University of Strathclyde,ORG,,,,,
+2,100,UK,2023,National Quantum Strategy,31,1,Fraunhofer Centre for Applied Photonics UK,ORG,,,,,
+2,101,UK,2023,National Quantum Strategy,31,1,Quantum Imaging Hub,ORG,,,,,
+2,102,UK,2023,National Quantum Strategy,31,1,QuantIC,ORG,,,,,
+2,103,UK,2023,National Quantum Strategy,31,1,Universities of Edinburgh,ORG,,,,,
+2,104,UK,2023,National Quantum Strategy,31,1,Strathclyde,ORG,,,,,
+2,105,UK,2023,National Quantum Strategy,31,1,CS,ORG,,,,,
+2,106,UK,2023,National Quantum Strategy,32,1,UKRI Strength in Places Fund,ORG,,,,,
+2,107,UK,2023,National Quantum Strategy,32,1,Institute for Compound Semiconductors,ORG,,,,,
+2,108,UK,2023,National Quantum Strategy,32,1,Future CS Manufacturing Hub,ORG,,,,,
+2,109,UK,2023,National Quantum Strategy,32,1,Cardiff University,ORG,,,,,
+2,110,UK,2023,National Quantum Strategy,32,1,Centre for Integrated Semiconductor Materials,ORG,,,,,
+2,111,UK,2023,National Quantum Strategy,32,1,Swansea University,ORG,,,,,
+2,112,UK,2023,National Quantum Strategy,32,1,The CS Centre,ORG,,,,,
+2,113,UK,2023,National Quantum Strategy,32,1,The CS Applications Catapult,ORG,,,,,
+2,114,UK,2023,National Quantum Strategy,32,1,IQE,ORG,,,,,
+2,115,UK,2023,National Quantum Strategy,32,1,KLA,ORG,,,,,
+2,116,UK,2023,National Quantum Strategy,32,1,Microchip Technology,ORG,,,,,
+2,117,UK,2023,National Quantum Strategy,32,1,UK National Quantum Foundry,ORG,,,,,
+2,118,UK,2023,National Quantum Strategy,32,1,Quantum Computing,ORG,,,,,
+2,119,UK,2023,National Quantum Strategy,33,1,CAP,ORG,,,,,
+2,120,UK,2023,National Quantum Strategy,33,1,Glasgow The Fraunhofer CAP UK,ORG,,,,,
+2,121,UK,2023,National Quantum Strategy,33,1,Fraunhofer CAP,ORG,,,,,
+2,122,UK,2023,National Quantum Strategy,33,1,Fraunhofer,ORG,,,,,
+2,123,UK,2023,National Quantum Strategy,34,1,Government Innovation Hub,ORG,,,,,
+2,124,UK,2023,National Quantum Strategy,34,1,ICURe,ORG,,,,,
+2,125,UK,2023,National Quantum Strategy,34,1,Intellectual Property Office,ORG,,,,,
+2,126,UK,2023,National Quantum Strategy,34,1,IPO,ORG,,,,,
+2,127,UK,2023,National Quantum Strategy,34,1,International IP Service,ORG,,,,,
+2,128,UK,2023,National Quantum Strategy,34,3,National Protective Security Agency,ORG,,,,,
+2,129,UK,2023,National Quantum Strategy,34,3,NPSA,ORG,,,,,
+2,130,UK,2023,National Quantum Strategy,34,3,CPNI,ORG,,,,,
+2,131,UK,2023,National Quantum Strategy,34,3,National Cyber Security Centre,ORG,,,,,
+2,132,UK,2023,National Quantum Strategy,34,3,NCSC,ORG,,,,,
+2,133,UK,2023,National Quantum Strategy,34,3,Department for Business and Trade,ORG,,,,,
+2,134,UK,2023,National Quantum Strategy,34,3,DBT,ORG,,,,,
+2,135,UK,2023,National Quantum Strategy,35,1,British Business Bank,ORG,,,,,
+2,136,UK,2023,National Quantum Strategy,35,1,Bank,ORG,,,,,
+2,137,UK,2023,National Quantum Strategy,35,1,UK Innovation Strategy,ORG,,,,,
+2,138,UK,2023,National Quantum Strategy,35,1,BPC,ORG,,,,,
+2,139,UK,2023,National Quantum Strategy,35,1,DCMS,ORG,,,,,
+2,140,UK,2023,National Quantum Strategy,36,1,Future Fund,ORG,,,,,
+2,141,UK,2023,National Quantum Strategy,36,1,Oxford Quantum Circuits’,ORG,,,,,
+2,142,UK,2023,National Quantum Strategy,36,1,National Security Strategic Investment Fund,ORG,,,,,
+2,143,UK,2023,National Quantum Strategy,36,1,NSSIF,ORG,,,,,
+2,144,UK,2023,National Quantum Strategy,36,1,British Technology Investments Limited,ORG,,,,,
+2,145,UK,2023,National Quantum Strategy,36,2,techUK,ORG,,,,,
+2,146,UK,2023,National Quantum Strategy,37,1,PsiQuantum,ORG,,,,,
+2,147,UK,2023,National Quantum Strategy,37,1,Hartree National Centre for Digital Innovation,ORG,,,,,
+2,148,UK,2023,National Quantum Strategy,38,1,EY,ORG,,,,,
+2,149,UK,2023,National Quantum Strategy,38,1,Catalyst Fund,ORG,,,,,
+2,150,UK,2023,National Quantum Strategy,41,1,Quantum Software Laboratory,ORG,,,,,
+2,151,UK,2023,National Quantum Strategy,41,1,University of Edinburgh,ORG,,,,,
+2,152,UK,2023,National Quantum Strategy,41,1,Oxford Quantum Circuits,ORG,,,,,
+2,153,UK,2023,National Quantum Strategy,41,1,OQC,ORG,,,,,
+2,154,UK,2023,National Quantum Strategy,41,1,SparQ,ORG,,,,,
+2,155,UK,2023,National Quantum Strategy,42,1,Small Business Research Initiative,ORG,,,,,
+2,156,UK,2023,National Quantum Strategy,42,1,SBRI,ORG,,,,,
+2,157,UK,2023,National Quantum Strategy,42,1,MOD,ORG,,,,,
+2,158,UK,2023,National Quantum Strategy,42,1,MOD Science & Technology Strategy,ORG,,,,,
+2,159,UK,2023,National Quantum Strategy,42,1,Defence,ORG,,,,,
+2,160,UK,2023,National Quantum Strategy,43,1,Crick Institute,ORG,,,,,
+2,161,UK,2023,National Quantum Strategy,43,1,Faraday Institution,ORG,,,,,
+2,162,UK,2023,National Quantum Strategy,45,1,World Economic Forum Global Future Council,ORG,,,,,
+2,163,UK,2023,National Quantum Strategy,45,1,WEF Global Future Councils,ORG,,,,,
+2,164,UK,2023,National Quantum Strategy,45,1,World Trade Organisation,ORG,,,,,
+2,165,UK,2023,National Quantum Strategy,45,1,G20,ORG,,,,,
+2,166,UK,2023,National Quantum Strategy,45,1,Council of Europe,ORG,,,,,
+2,167,UK,2023,National Quantum Strategy,45,1,Commonwealth,ORG,,,,,
+2,168,UK,2023,National Quantum Strategy,45,1,UN,ORG,,,,,
+2,169,UK,2023,National Quantum Strategy,45,1,International Telecommunications Union,ORG,,,,,
+2,170,UK,2023,National Quantum Strategy,45,1,ITU,ORG,,,,,
+2,171,UK,2023,National Quantum Strategy,45,1,Regulatory Horizons Council,ORG,,,,,
+2,172,UK,2023,National Quantum Strategy,45,1,Quantum Technology,ORG,,,,,
+2,173,UK,2023,National Quantum Strategy,46,1,Trusted Research,ORG,,,,,
+2,174,UK,2023,National Quantum Strategy,46,1,Academic Technology Approval Scheme,ORG,,,,,
+2,175,UK,2023,National Quantum Strategy,46,1,ATAS,ORG,,,,,
+2,176,UK,2023,National Quantum Strategy,46,1,Advanced Conventional Military Technology,ORG,,,,,
+2,177,UK,2023,National Quantum Strategy,46,1,ACMT,ORG,,,,,
+2,178,UK,2023,National Quantum Strategy,46,1,National Security and Investment Act,ORG,,,,,
+2,179,UK,2023,National Quantum Strategy,46,1,NSIA,ORG,,,,,
+2,180,UK,2023,National Quantum Strategy,47,1,ECJU,ORG,,,,,
+2,181,UK,2023,National Quantum Strategy,47,1,Wassenaar Arrangement,ORG,,,,,
+2,182,UK,2023,National Quantum Strategy,48,1,International Organization for Standardization,ORG,,,,,
+2,183,UK,2023,National Quantum Strategy,48,1,ISO,ORG,,,,,
+2,184,UK,2023,National Quantum Strategy,48,1,International Electrotechnical Commission,ORG,,,,,
+2,185,UK,2023,National Quantum Strategy,48,1,IEC,ORG,,,,,
+2,186,UK,2023,National Quantum Strategy,48,1,International Telecommunication Union,ORG,,,,,
+2,187,UK,2023,National Quantum Strategy,48,1,Internet Engineering Task Force,ORG,,,,,
+2,188,UK,2023,National Quantum Strategy,48,1,IETF,ORG,,,,,
+2,189,UK,2023,National Quantum Strategy,48,1,European Telecommunications Standards Institute,ORG,,,,,
+2,190,UK,2023,National Quantum Strategy,48,1,ETSI,ORG,,,,,
+2,191,UK,2023,National Quantum Strategy,48,1,IEEE,ORG,,,,,
+2,192,UK,2023,National Quantum Strategy,48,1,British Standards Institute,ORG,,,,,
+2,193,UK,2023,National Quantum Strategy,49,1,International Standards Development Organisations,ORG,,,,,
+2,194,UK,2023,National Quantum Strategy,49,1,SDOs,ORG,,,,,
+2,195,UK,2023,National Quantum Strategy,49,1,National Institute of Standards and Technology,ORG,,,,,
+2,196,UK,2023,National Quantum Strategy,49,1,BSI,ORG,,,,,
+2,197,UK,2023,National Quantum Strategy,49,1,CENELEC,ORG,,,,,
+2,198,UK,2023,National Quantum Strategy,49,1,JTC,ORG,,,,,
+2,199,UK,2023,National Quantum Strategy,49,1,CEN,ORG,,,,,
+2,200,UK,2023,National Quantum Strategy,49,1,CENELEC Focus Group,ORG,,,,,
+2,201,UK,2023,National Quantum Strategy,49,1,FGQT,ORG,,,,,
+2,202,UK,2023,National Quantum Strategy,50,1,National Physical Laboratory The Quantum Metrology Institute,ORG,,,,,
+2,203,UK,2023,National Quantum Strategy,50,1,QMI,ORG,,,,,
+2,204,UK,2023,National Quantum Strategy,50,1,Advanced Quantum Metrology Laboratory,ORG,,,,,
+2,205,UK,2023,National Quantum Strategy,50,1,AQML,ORG,,,,,
+2,206,UK,2023,National Quantum Strategy,50,1,NPL Teddington,ORG,,,,,
+2,207,UK,2023,National Quantum Strategy,52,1,Quantum Strategic Advisory Board,ORG,,,,,
+2,208,UK,2023,National Quantum Strategy,52,1,TechUK,ORG,,,,,
+2,209,UK,2023,National Quantum Strategy,53,1,UK Research and Innovation,ORG,,,,,
+2,210,UK,2023,National Quantum Strategy,54,1,International Science Partnerships Fund Demonstrate UK,ORG,,,,,
+2,211,UK,2023,National Quantum Strategy,56,1,Government User Group,ORG,,,,,
+3,0,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,2,1,QIS,ORG,,,,,
+3,1,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,2,1,Trump,ORG,,,,,
+3,2,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,2,1,National Science and Technology Council,ORG,,,,,
+3,3,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,2,1,NSTC,ORG,,,,,
+3,4,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,2,1,Quantum Information Science,ORG,,,,,
+3,5,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,2,1,SCQIS,ORG,,,,,
+3,6,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,2,1,Nation,ORG,,,,,
+3,7,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,3,1,United States’,ORG,,,,,
+3,8,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,3,1,National Science and Technology Council Subcommittee on Quantum Information Science,ORG,,,,,
+3,9,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,3,1,U.S. Quantum Consortium,ORG,,,,,
+3,10,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,3,1,Federal Government,ORG,,,,,
+3,11,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,4,1,OSTP,ORG,,,,,
+3,12,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,5,1,Trump Administration,ORG,,,,,
+3,13,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,5,1,Government,ORG,,,,,
+3,14,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,6,3,Grand Challenges,ORG,,,,,
+3,15,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,6,3,NISQ,ORG,,,,,
+3,16,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,7,1,National Science Foundation,ORG,,,,,
+3,17,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,7,1,NSF,ORG,,,,,
+3,18,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,7,1,National Defense Science and Engineering Graduate Fellowship Program,ORG,,,,,
+3,19,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,7,1,Quantum Science and Engineering Program,ORG,,,,,
+3,20,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,7,1,Department of Defense,ORG,,,,,
+3,21,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,7,1,DOD,ORG,,,,,
+3,22,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,7,1,Department of Energy,ORG,,,,,
+3,23,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,7,1,DOE,ORG,,,,,
+3,24,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,7,1,National Institute of Standards and Technology’s,ORG,,,,,
+3,25,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,7,1,NIST,ORG,,,,,
+3,26,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,7,1,Quantum Science and Engineering,ORG,,,,,
+3,27,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,8,1,STEM,ORG,,,,,
+3,28,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,8,4,SBIR,ORG,,,,,
+3,29,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,8,4,Semiconductor Research Corporation,ORG,,,,,
+3,30,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,9,1,Council of Advisors on Science and Technology,ORG,,,,,
+3,31,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,9,1,Quantum Academia Industry,ORG,,,,,
+3,32,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,9,1,U.S. Government,ORG,,,,,
+3,33,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,10,4,Nanophase Materials Science,ORG,,,,,
+3,34,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,10,4,Microsystem U.S. Quantum Consortium,ORG,,,,,
+3,35,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,10,4,MESA,ORG,,,,,
+3,36,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,10,4,Sandia National Laboratories,ORG,,,,,
+3,37,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,10,5,Oak Ridge’s Center for Nanophase Materials Science,ORG,,,,,
+3,38,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,10,6,Microsystems and Engineering Sciences Application,ORG,,,,,
+3,39,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,10,7,Federal,ORG,,,,,
+3,40,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,12,2,EAR,ORG,,,,,
+3,41,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,12,2,International Traffic in Arms Regulation,ORG,,,,,
+3,42,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,12,2,ITAR,ORG,,,,,
+3,43,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,14,1,Agency,ORG,,,,,
+3,44,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,14,1,David Wineland,PER,,,,,
+3,45,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,14,1,Department of Agriculture,ORG,,,,,
+3,46,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,14,1,USDA,ORG,,,,,
+3,47,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,14,1,National Institutes of Health,ORG,,,,,
+3,48,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,14,1,NIH,ORG,,,,,
+3,49,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,14,1,Department of the Interior,ORG,,,,,
+3,50,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,14,1,DOI,ORG,,,,,
+3,51,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,14,1,Department of Homeland Security,ORG,,,,,
+3,52,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,14,1,DHS,ORG,,,,,
+3,53,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,14,1,Department of State,ORG,,,,,
+3,54,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,14,1,National Aeronautics and Space Administration,ORG,,,,,
+3,55,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,14,1,NASA,ORG,,,,,
+3,56,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,14,1,National Institute of Standards and Technology,ORG,,,,,
+3,57,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,14,1,National Security Agency,ORG,,,,,
+3,58,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,14,1,NSA,ORG,,,,,
+3,59,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,14,1,National Intelligence,ORG,,,,,
+3,60,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,14,1,ODNI,ORG,,,,,
+3,61,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,14,1,Office of Management and Budget,ORG,,,,,
+3,62,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,14,1,OMB,ORG,,,,,
+3,63,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,14,1,Office of Science and Technology Policy,ORG,,,,,
+3,64,USA,2018,NATIONAL STRATEGIC  OVERVIEW FOR QUANTUM  INFORMATION SCIENCE,15,1,S3,ORG,,,,,
