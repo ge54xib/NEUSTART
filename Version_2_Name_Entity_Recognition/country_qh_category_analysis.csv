@@ -1,13 +1,12 @@
 Country,QH_Category,Frequency
-CAN,Government,63
-CAN,not an actor,56
-CAN,Academia,16
-CAN,Civil Society,9
+CAN,Government,62
+CAN,not an actor,48
+CAN,,15
+CAN,Academia,14
+CAN,Civil Society,8
 CAN,Industry,6
-CAN,not specified,5
-CAN,not relevant (from Footnotes),2
-CAN,not specfied,2
-GER,,301
-GER,not specified,2
-UK,,212
-USA,,65
+CAN,not specified,1
+GER,,219
+GER,not specified,1
+UK,,214
+USA,,60

@@ -1,2 +1,0 @@
-Doc_ID,Source,Target,Interaction_Verb,Full_Sentence,Dependency_Pattern
-0,National Research Council of Canada,NRC,become,"According to a study commissioned by the National Research Council of Canada (NRC), the quantum sector will become a $139 billion industry in Canada with more than 200,000 jobs and $42 billion in returns by 2045, potentially contributing 3% to Canada’s GDP.1",pobj -> become <- appos
