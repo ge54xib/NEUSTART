@@ -1,0 +1,740 @@
+Executive summary 
+A
+dvances in quantum science have the potential to transform how people 
+work and live in Canada and around the world. Canada’s investments in 
+quantum technologies and research over many decades have made the country a global leader in the field, with a growing ecosystem of world-class centres of quantum expertise in universities and businesses across the country. As the rest of the world expands its own quantum programs, Canada must continue to invest and innovate if it is to stay ahead. 
+
+Three key missions 
+The National Quantum Strategy (NQS) sets out three key missions to ensure Canada stays on the path of quantum innovation and leadership: 
+• 
+Make Canada a world leader in the continued development, deployment and use of quantum computing hardware and software—to the benefit of Canadian industry, governments and citizens. 
+
+• 
+Ensure the privacy and cyber-security of Canadians in a quantum-enabled world through a national secure quantum communications network and a post-quantum cryptography initiative. 
+
+• 
+Enable the Government of Canada and key industries to be developers and early adopters of new quantum sensing technologies. 
+
+
+
+Three core pillars 
+To foster these missions and other quantum initiatives, the NQS is built on three pillars: 
+• 
+Research – Supporting basic and applied research to realize new solutions and new innovations. 
+
+• 
+Talent – Developing, attracting and retaining the critical talent from within Canada and around the world to build the quantum sector. 
+
+• 
+Commercialization – Translating research into scalable, commercial products and services that can benefit Canadians, our industries and the world. 
+
+
+
+
+Next steps 
+To strengthen Canada’s quantum ecosystem, the Government of Canada has allocated $360 million in dedicated funding, delivered though funding calls and other supports aligned with this strategy. In addition, government support for a quantum-enabled future will leverage a number of current and anticipated broad-based, large-scale programs that are critical to fostering Canada’s strength in quantum research, innovation and commercialization, and the growth and success of the Canadian ecosystem. 
+Quantum technologies are evolving quickly. As the technologies mature and the opportunities and challenges become clearer, the Government of Canada may explore additional actions to support Canadian excellence and meet the needs of the quantum community. The Government of Canada will also maintain an ongoing dialogue with stakeholders, provinces and like-minded nations to ensure that Canada is positioned to succeed in a quantumenabled future. 
+
+
+
+
+S
+ince the birth of quantum science more than 
+100 years ago, quantum technologies have 
+been the source of many game-changing innovations, including semiconductors and lasers. In the coming years, new breakthroughs will further transform how people work and live. Canadian quantum researchers and companies are well positioned to realize this disruptive potential as the capability to design and engineer quantum states increases. 
+Emerging quantum innovations will underpin major advances in fields from computing to artificial intelligence (AI) to health care, with a vast range of potential applications: developing life-saving drugs and vaccines, locating critical minerals and other natural resources (and mitigating the environmental impact of extracting them), making transportation safer and more efficient, accelerating the design of higher-capacity batteries, and many more. 
+Quantum technologies will also enhance digital privacy, strengthen cyber-security and safeguard digital infrastructure through secure communications—although in the hands of bad actors, advances in quantum computing could put sensitive information at risk. To remain competitive and expand future opportunities, businesses will need to take advantage of the improved capabilities offered by quantum technologies and help futureproof the economy. 
+
+What do we mean by “quantum”? 
+Quantum mechanics is the physics of the very 
+small. The field seeks to predict and explain the 
+behaviour of atoms and molecules and involves 
+the manipulation and control of systems at the 
+atomic and subatomic levels. 
+The next quantum revolution is expected to deliver major economic benefits. According to a study commissioned by the National Research Council of Canada (NRC), the quantum sector will become a $139 billion industry in Canada with more than 200,000 jobs and $42 billion in returns by 2045, potentially contributing 3% to Canada’s GDP.1 
+
+An early leader 
+Canada has taken a leadership position through investments in quantum science over many decades, including more than $1 billion between 2012 and 2022. 
+Provincial governments have also made significant investments in centres of quantum leadership. In addition, private investors and philanthropists have committed more than $1 billion toward quantum science, innovation and companies since 2002. 
+These investments have built a growing ecosystem that includes world-class centres of quantum expertise in universities across the country and pioneering, industry-leading companies. 
+In recent years, other countries have ramped up their efforts to develop quantum technologies.2 To retain a leading position and continue to partner effectively amid growing international commitments and investments, Canada must build on its quantum advantage as the impacts of these technologies expand globally. 
+
+
+Canada’s quantum firsts 
+D-Wave launched the first computer based on quantum technology in 2011. 
+1Qbit was recognized by the World Economic Forum in 2015 as the first software company dedicated to producing commercial applications for quantum computers. 
+Xanadu launched PennyLane, the first dedicated machine learning software for quantum computers, in 2018. 
+
+
+
+
+T
+o inform development of this strategy, the 
+Government of Canada consulted broadly, 
+as each stakeholder group has a different role to play: 
+• 
+Academia – Developing talent, performing largescale applied research and development (R&D), and pushing the boundaries of knowledge. 
+
+• 
+Industry – Bringing new technologies to market, making connections into global supply chains, exporting quantum products and services, and adopting new technologies. 
+
+• 
+Not-for-profit – Convening and coordinating activities in support of quantum research and commercialization, including education, awareness, acceleration and incubation, and conducting advocacy. 
+
+
+• Government – Funding, de-risking and creating supportive policy frameworks for emerging technologies, convening and coordinating, procuring goods and services, and serving as a research partner. 
+These stakeholders came together to support a coordinated strategy to keep Canada at the forefront of global quantum developments in the decades to come.3 Their input focused on four key areas: research, talent, commercialization, and security. They identified five broad categories of quantum technologies. 
+
+The five principal quantum technologies 
+• Quantum computers 
+A type of computer that harnesses the behaviour of microscopic elements the size of atoms to perform calculations. Potential applications include machine learning; the design of pharmaceuticals, advanced materials and chemical processes; and the resolution of optimization problems in finance, logistics and other critical domains. 
+• Quantum software 
+Software and algorithms that run on quantum computers and enable the efficient operation and design of quantum computers, and/ or software that enables the development and optimization of quantum computing applications. 
+
+Research 
+Stakeholders agreed that Canada must coordinate, connect and mobilize efforts to advance knowledge and support the growing commercial quantum sector. They recommended that a National Quantum Strategy should enable research cooperation and collaboration between industry, academia and government, and further increase connections between regional quantum hubs to foster a robust national ecosystem. 
+Stakeholders also noted that setting goals for future achievements makes it possible to establish and reinforce necessary research funding mechanisms today. This includes ramping up efforts to apply quantum technologies to problems faced by Canadian industry, and identifying and capitalizing on domestic research strengths to focus future investments. At the same time, the consultations acknowledged the need for patient investment in research over an extended period to realize the full potential of quantum technologies. 
+• Quantum communications Communications networks that take advantage of the laws of physics to protect and share data. Potential applications include protecting communications against eavesdropping and connecting quantum devices together. 
+• Quantum sensors Devices that perform measurements with high sensitivity and accuracy. Potential applications include submarine detection, mineral exploration, imaging and sensitive radar detection. 
+• Quantum materials Materials with unusual magnetic and electrical properties that could enable energy-efficient electrical systems, better batteries and the construction of new types of electronic devices. 
+
+Talent 
+The importance of recruiting, retaining and developing quantum talent in academia, industry and government was prominent in stakeholder feedback, as was the value of expanding national support for cutting-edge research to help retain and attract top talent and foster a vibrant start-up community. The importance of fostering a diverse and inclusive quantum workforce was also emphasized. 
+In addition to quantum physics knowledge and experience, feedback suggested that future success requires harnessing expertise in a wide variety of fields, such as social science and humanities, business, and engineering. 
+Increasing industry-academia collaboration was noted as a way to draw research talent into industry, increase commercialization, and ensure strong readiness to engage and create value from quantum applications. Training and internship programs that provide work experience and cross-disciplinary skillsets were also identified as key to advancing research toward commercialization. 
+Stakeholders stressed the need to expand efforts to attract international talent. They suggested creating mobility programs that offer international training and internships, adopting immigration measures, developing agreements with other countries, and facilitating access to international talent to complement Canada’s home-grown supply. 
+
+Commercialization 
+Stakeholders acknowledged that Canada has expertise in many technologies with near-term commercial opportunity, including quantum sensors, which can be used to increase the competitive advantage of mining and defence sectors; quantum communications and cryptography; and quantum computing hardware and software, including algorithm design. 
+Quantum technologies are evolving quickly; however, they have lengthy development timelines and require long-term R&D support. Even when a quantum innovation reaches the proof-of-concept stage, intensive research is still needed to scale it into a commercially viable technology. Participants in the consultations felt that this interplay underscores the importance of industry-academia-government collaboration throughout the development lifecycle. 
+As Canada’s domestic market is small, its quantum strategy needs to leverage international partnerships and markets. Given the modest number of large Canadian first-buyer companies, stakeholders noted the importance of the Government of Canada as a first buyer, and felt that government procurement will be pivotal to de-risk product development and secure commercial success. 
+
+Security 
+Stakeholders put high priority on the timely development and adoption of post-quantum cryptography. Quantum computing presents a significant cyber-security risk, as it has the potential to break current security algorithms, including those commonly used over the Internet. Quantum computing-enabled malicious cyber activity could put personal information, financial systems, utility grids, infrastructure and national security in peril. 
+The interoperability of existing and new systems will also be a major issue, as transitioning to new cryptographic technologies may take years. Stakeholders proposed that Canada invest in a parallel infrastructure for secure communications for highly sensitive information using quantum technologies, including critical space-based infrastructure. Given the dual use nature of the technologies involved, stakeholders recognized their importance to Canada’s economic and national security and suggested that foreign collaborations focus on trusted allies. 
+
+
+Other input 
+Stakeholders also identified the importance of protecting and mobilizing intellectual property (IP). While the general view was that IP derived from publicly funded research should accrue benefits to Canada, consultation participants recognized the need to strike an appropriate balance between restrictiveness and openness to avoid unintended barriers to development, commercialization and international investment. For companies seeking investments so they can scale, the risks to Canadian IP relate to maintaining equity and to mergers with or acquisitions by foreign-owned companies. 
+Stakeholders said Canada needs to take a leading role in the development of mutually advantageous international standards to facilitate collaborative research and enable future opportunities for Canadian industry. Stakeholders also noted that Canada should contribute its perspective on the ethical use of quantum innovations. It was suggested that the Social Sciences and Humanities Research Council (SSHRC) could fund studies on the societal and ethical considerations of quantum technologies. 
+Ongoing discussions with stakeholders, along with proactive engagement with end users, will be vital to providing social and economic benefits to Canadians through the development and application of transformational innovations. 
+
+
+
+T
+his strategy recognizes strengths that have 
+built up over many years of hard work and 
+investments, and represents a new chapter in Canada’s quantum story. The National Quantum Strategy (NQS) aims to amplify Canada’s significant strength in quantum research; grow Canadian quantum-ready technologies, companies and talent; and solidify global leadership in quantum science and its commercialization. The Government of Canada will continue to engage stakeholders to ensure that the NQS remains on the right course. 
+The Government of Canada has committed an incremental $360 million over seven years, starting in 2021–22, to support strategy implementation. In addition, support for a quantum-enabled future will leverage a number of current and anticipated broadbased, large-scale government programs that are critical to expanding Canada’s strength in quantum research, innovation and commercialization, and can be key instruments in advancing the growth and success of the Canadian quantum ecosystem. 
+Examples include: 
+• 
+The Strategic Innovation Fund (SIF), which supports large-scale, transformative and collaborative projects that promote the competitiveness of Canadian industries, advancement of Canada’s technological advantage and clean growth; and 
+
+• 
+The Canada Foundation for Innovation (CFI), which provides investments in infrastructure across the full spectrum of research. 
+
+
+Budget 2022 also announced the government’s intention to establish a Canadian innovation and investment agency. This agency will work to help new and established Canadian firms innovate, commercialize research, and create new economic opportunities for workers and businesses in Canada. 
+A broad range of complementary government programs and initiatives from a number of departments and agencies that support quantum research, development and deployment will also be leveraged to support the goals of the NQS, and are described throughout the document. 
+As quantum science and associated technologies mature, the Government of Canada will consider further actions to meet the needs of the quantum community, support excellence and ensure Canada’s continued success. 
+While many basic and applied research problems and technological challenges remain concerning the development of quantum technologies, the next wave of disruptive innovations is becoming clearer, as are the areas in which Canadians are poised to lead the world. In addition to continuing to make diverse investments in quantum R&D, it is also time to concentrate on key areas of Canadian leadership and double down on specific goals to benefit the economy and society—such as creating industries and jobs of the future, expanding the frontiers of quantum research, and solving important problems facing Canada and the world. 
+In light of this, and based on feedback from the stakeholder community, the NQS is focused on three missions: 
+• 
+Make Canada a world leader in the continued development, deployment and use of quantum computing hardware and software—to the benefit of Canadian industry, governments and citizens. 
+
+• 
+Ensure the privacy and cyber-security of Canadians in a quantum-enabled world through a national secure quantum communications network and a postquantum cryptography initiative. 
+
+• 
+Enable the Government of Canada and key industries to be developers and early adopters of new quantum sensing technologies. 
+
+
+
+
+THE STRATEGY’S THREE MISSIONS IN DETAIL 
+The NQS missions will guide collaboration between academia, industry, not-for-profit organizations and government—and require government support to de-risk technology development, scale solutions into world-leading prototypes and launch large-scale projects that establish Canadian leadership. 
+In the near term, the Government of Canada is planning to launch road-mapping exercises and develop technical guidance in collaboration with academic and industry experts to complete a more detailed rollout plan for these missions. These roadmaps will include detailed objectives, milestones and actions required of government, academia and industry to realize mission goals. Informed by these roadmaps, the Government of Canada may explore additional investments and work with provinces, territories and other partners to support each of the missions. 
+In advancing the NQS missions, it will also be important to emphasize a number of key enabling factors that will be vital to success. These include critical infrastructure, supply chain issues and standards. 
+Critical infrastructure is an important enabling factor, including strengthening support for operating existing infrastructure, and filling key gaps required for the success of Canada’s quantum industries. 
+Supply chain issues need to be considered to ensure that Canadian quantum researchers and companies have stable access to critical components, either domestically or through enhancing supply chain security in collaboration with international partners. 
+Standards will play an important role in the commercial success of quantum technologies by opening up access to international markets. The Standards Council of Canada and other organizations will contribute to activities that support standardization, including the development of policies and regulations for integrating and adopting quantum applications in ways that benefit Canadian business and society. As stakeholders expressed, Canada must be represented at various tables to ensure that international standards reflect Canadian principles and global frameworks reflect the interests of Canadian industries. 
+
+
+Mission: Make Canada a world leader in the continued development, deployment and use of quantum computing hardware and software—to the benefit of Canadian industry, governments and citizens. 
+Forecasts anticipate quantum computing hardware and software will account for up to US$154 billion in global economic activity by 2030.4 Canadian researchers and companies are at the forefront of the international race to build a scalable highperformance quantum computer. Several Canadian firms now have quantum computing systems that have the potential to solve computational and logistical challenges that are too complex, costly or time-consuming to solve with conventional technologies. 
+Canadians are also leaders in the development of software to control quantum computers and link them to classical computer systems, and in the creation of applications that will make these systems valuable to end users. This advantage could benefit Canadians by transforming a number of sectors, for example by developing personalized drugs, making Canada’s supply chains and delivery routes more efficient, predicting weather events, modelling climate change, and more. 
+Early sectors of focus could include digital security, banking and advanced manufacturing. Many of these are already considering quantum computing. For example, the Bank of Canada collaborates with a broad range of Canadian and international quantum researchers, the public sector, and industry to stand at the forefront of this technological evolution. 
+A number of key research and development issues need to be addressed to realize the potential of a quantum computer. Near-term areas that will require a sustained focus include: 
+• 
+Hybrid computing capacity – Exploiting the full benefits of quantum computing will require interconnected systems of quantum computers and classical computers, to make use of what each type of system does best in a complex calculation, and to make it easy for users to access and use quantum computers, including over the cloud. 
+
+• 
+Quantum simulators – Before “fault-tolerant” quantum computers are available, it will be important to have a strong capacity to simulate quantum calculations to better understand the types of problems that can best be addressed by these systems, and to test how different hardware approaches would perform without having to invest in a range of prototype systems. 
+
+• 
+Use cases for quantum computers – In addition to developing quantum computing hardware and software, the full range of potential applications to real-world problems remains uncharted. Identifying 
+
+
+a set of public and private sector “use cases” would help broaden application development. 
+Work is already underway. In November 2020, Innovative Solutions Canada (ISC) launched a call for Quantum Computing as a Service solutions to optimize complex problem solving. In February 2022, ISC also launched a call to develop a scaled down dilution refrigerator in support of quantum computing technologies. In June 2022, ISC launched a call to test pre-commercial quantum computing prototypes 
+that address a variety of federal government priorities. The NRC is in the process of launching an 
+Applied Quantum Computing Challenge program 
+that will help drive commercial innovation and build on Canada’s position as a global leader in applied quantum computing. 
+Mission strategy 
+
+The Government of Canada will accelerate the development of Canadian quantum computing hardware, software and algorithms, and foster expertise in the use of a range of different platforms. This will ensure the academic, commercial and government sectors have access to the broadest suite of related technologies for testing, advancement, procurement and adoption. 
+
+What’s required 
+• 
+Give Canadian firms involved in creating and adopting quantum computing and software a head start to boost their global competitiveness. 
+
+• 
+Develop the academic and private-sector talent base needed to underpin a successful Canadian quantum computing and software industry. 
+
+• 
+Provide quantum computing companies with stress testing and feedback to perfect their technologies and attract a larger user base. 
+
+• 
+De-risk the deployment of quantum computing systems to incentivize industrial use. 
+
+• 
+Support basic and applied research to advance quantum computing technologies. 
+
+• 
+Establish links between researchers, product developers and user communities to identify how to increase adoption. 
+
+
+What the Government of Canada will do 
+• 
+Continue to make investments in the development, testing and scaling of Canadian quantum computers, algorithms, simulators and software. 
+
+• 
+Invest in work-integrated learning opportunities to advance domestic and international industryacademia partnerships. 
+
+• 
+Convene and connect providers and users (Canadian researchers and companies) who could benefit from these technologies. 
+
+• 
+Work with partners in government, academia and the private sector to make available broadbased access to quantum computing hardware and software, and hybrid quantum-classical computing environments. 
+
+• 
+Identify use cases and pursue procurement opportunities for quantum computing systems and software within the Government of Canada. 
+
+
+
+
+Mission: Ensure the privacy and cybersecurity of Canadians in a quantumenabled world through a national secure quantum communications network and a post-quantum cryptography initiative. 
+Activities vital to our everyday lives—including commercial and financial transactions, government service delivery, the development and maintenance of transportation and utility infrastructure, ensuring the defence and security of Canadians, and more—depend on secure data usage, storage and 
+transmission.5 
+Quantum technology advancements could put the security of digital data and systems at risk due to their potential to break many of the cryptographic mechanisms currently used to protect personal, research, commercial and government information. Encrypted information transmitted today can be stored to be compromised in the future by a powerful quantum computer. Quantum-safe solutions using quantum technologies or post-quantum cryptography can protect data against this threat. 
+There is an immense commercial market tied to transmitting and securing data and increasing the inter-connectedness of devices. As well, there is an opportunity for the Government of Canada to adopt quantum-safe solutions in the future as they become commercially available. It is imperative to develop capabilities in secure quantum communications and post-quantum cryptography to safeguard citizens and strengthen the economy. 
+Achieving this will require developing partnerships among government, researchers and industry; investing in post-quantum cryptography; and building on Canada’s early strengths in secure quantum communications to work toward a national secure quantum network. Canadian systems must also be able to interface with those of international partners to provide maximum economic benefit and inspire confidence in the integrity of data. 
+Canada is home to pre-eminent researchers and companies developing post-quantum cryptography to secure valuable data. These capabilities are of value to both Canadians and allies as the Government of Canada works collectively to ensure the security and wellbeing of its citizens. 
+Ultimately, a national quantum communications network combined with post-quantum cryptography could enhance the security of highly sensitive information, critical applications and infrastructure. Such a network would include land- and satellitebased infrastructure significantly beyond current Canadian and international capabilities. In the future, a “quantum Internet” could also be used by Canadian industries, such as the financial sector, that need to transmit highly sensitive information and ensure their networks are interoperable with those of trusted international partners. Completing this mission would create a made-in-Canada quantum communications solution that would secure the Canadian economy and digital sovereignty and build confidence in Canadian providers of quantum-safe communications solutions among our trusted international partners. 
+The Government of Canada will also prioritize the formation of domestic and international industry-academia partnerships to build quantum cyber-security capacity. This will involve training and mobilizing experts to advance quantum cryptography and quantum communications, as well as expanding the pool of talent skilled in integrating quantum communications and quantum cyber-security technologies in different industries and sectors. Support will be required to develop commercially viable quantum key distribution, continue engagement in standardization activities and integrate cryptographic schemes with existing security-based software architecture. In the long term, conformity with industry standards will be an important factor in procuring solutions. 
+Work on this mission has already begun. The Government of Canada, led by the Communications Security Establishment, has undertaken activities to ensure that its highly sensitive data holdings are protected against the quantum threat. These activities are coordinated with international allies to maintain interoperability. The identification of Government of Canada systems and data that are less sensitive but still potentially at risk is an ongoing effort, and the use of standardized post-quantum cryptography will be critical to securing them. 
+Additionally, in 2017 the Government of Canada initiated the Quantum Encryption and Science Satellite (QEYSSat) project with several government organizations, academic institutions and private 
+Mission strategy 
+partners. The project is one of the first tests of satellite-based secure quantum communications demonstrations and is expected to be launched in the coming years. The NRC’s High Throughput and Secure Networks Challenge Program has been supporting collaborative R&D projects on quantum communications with industry, academia and other government departments since 2019. In June 2022, ISC launched a call to support pre-commercial quantum communications prototypes that can be tested in real-life settings and address a variety of federal government priorities. 
+
+The Government of Canada will work toward ensuring existing and future data systems are protected before they are threatened. This involves encouraging the deployment of post-quantum cryptography and working towards the development of a national quantum communications network that could be used to protect highly sensitive information in the future. To create opportunities for Canadian firms to enter international markets and enhance the collective security of Canada and its allies, the Government of Canada will seek to ensure Canadian systems can interface with those of our partners. 
+What’s required 
+• 
+Encourage organizations to understand the sensitivity of their data assets. 
+
+• 
+Develop a plan to enhance the security of these digital assets. 
+
+• 
+De-risk investments related to private sector development of distributed quantum communications infrastructure and new enabling technologies such as post-quantum cryptography. 
+
+• 
+Ensure Canadian commercially developed systems can interface with those of Canada’s international partners. 
+
+• 
+Encourage adoption of post-quantum cryptographic and quantum communications products to secure data held by the Government of Canada and Canadian industry. 
+
+
+What the Government of Canada will do 
+• Identify information currently held by the Government of Canada at greatest risk if quantum technologies break currently used 
+encryption protocols, and develop and implement a plan to secure it. 
+• 
+Work with Canadian researchers and industry to support the adoption of post-quantum cryptography in technologies vulnerable to future quantum-enabled threats, including the procurement of products that meet government needs. 
+
+• 
+Support prototypes for a quantum communications network and work toward a secure Government of Canada quantum network to ensure critical applications, infrastructure and sensitive data are protected. 
+
+• 
+Support development and implementation of industry standards. 
+
+• 
+Support the assessment of commercial prototypes to demonstrate their cyber-security, resiliency and interoperability. 
+
+• 
+Collaborate with allies so Canadian innovations enhance the collective security of sensitive information and gain international market access. 
+
+
+
+
+Mission: Enable the Government of Canada and key industries to be developers and early adopters of new quantum sensing technologies. 
+Quantum sensors will significantly improve the precision, sensitivity and efficiency of many different kinds of measurements and, in some cases, create entirely new capabilities and application spaces to explore. The deployment of quantum sensors is expected to help solve many pressing problems for Canada by enabling major advances in defence and security, critical mineral exploration and extraction, infrastructure and environmental monitoring, navigation and transportation safety, and health care. Early commercial opportunities are on the horizon, with more widespread impacts expected in the next few years. By 2026, the global market for quantum sensors is projected to be nearly US$550 million.6 
+Canada will need to be an early mover to seize a share of that growing market. This will involve overcoming current technological barriers, including gaps in the fundamental science; challenges building stable and easily reproducible components; and the lack of standards, processes and devices to characterize components and systems. Barriers related to the highly specialized knowledge and training required for quantum-sensor use must also be overcome to enable their widespread adoption in society. 
+The NQS will help overcome these hurdles and support a vibrant domestic industry by leveraging Canadian quantum R&D capacity to create IP, build highly qualified personnel capacity, and stimulate knowledge and technology transfer between the government, academic and commercial sectors. The Government of Canada will engage industry end users on the capabilities and competitive advantages of quantum sensors to facilitate their adoption and will support expert training in the technology. Research and design of new materials, such as those that enhance the capabilities of existing sensors, will further contribute to fulfillment of the mission. 
+Work on this mission has already begun. In 2019, the Department of National Defence (DND) launched an IDEaS call for solutions to overcome the scientific and technical barriers to quantum-sensing systems for defence and security purposes. In 2021, the NRC launched the Internet of Things: Quantum Sensor Challenge program, focused on developing revolutionary sensors that use the extreme sensitivity of quantum systems to enhance measurement precision and sensitivity rates, and even expand the kinds of phenomena that can be measured. In February 2022, Innovative Solutions Canada (ISC) launched two calls to advance quantum sensing prototypes and supporting technologies: one to support the development of a quantum-level biophoton optical imager and another to develop ultrasensitive spectroscopy systems for quantum photonics. In June 2022, ISC launched a call to support pre-commercial quantum sensor prototypes 
+that can measure a variety of physical quantities, including electric or magnetic fields, precise timing, temperature, and chemical or biological processes. As a world leader in quantum science, Canada can conquer the technical challenges, transition these technologies out of the lab and into the field, and lay the groundwork for a future lucrative, hightech industry. 
+Mission strategy 
+
+To establish Canada as a world leader in developing and using quantum sensors, the Government of Canada will explore potential areas of application and encourage their adoption by supporting research investments to improve the performance and design of sensors, the development of industry standards, and efforts to make quantum sensor technologies accessible to a broad swath of Canadian industry. 
+What’s required 
+• 
+Improve the performance of sensing technologies by supporting targeted research activities. 
+
+• 
+Identify early adopters in Canadian industries and government departments and agencies that could benefit from quantum sensing technologies. 
+
+• 
+Support the development of prototypes and technology demonstrations to better understand the technical challenges to operation and production, and potential market applications. 
+
+• 
+Develop industry standards to build greater confidence and understanding of the technologies. 
+
+• 
+Make connections to domestic and international markets. 
+
+
+What the Government of Canada will do 
+• 
+Invest in cutting-edge research with the potential to make transformative breakthroughs in the underlying technologies. 
+
+• 
+Back the development of prototypes that can be field-tested and easily produced. 
+
+• 
+Make linkages between the makers of quantum sensors and potential end users. 
+
+• 
+Support government applications by procuring quantum sensors, while helping the industry establish performance standards. 
+
+
+
+
+
+
+PILLARS OF THE NATIONAL QUANTUM STRATEGY 
+To support the NQS missions and Canada’s broader quantum ecosystem, the strategy is underpinned by three interrelated pillars for a successful Canadian quantum community: Research, Talent and Commercialization. By coordinating investments and outcomes across all three, Canada can strengthen its quantum advantage and build a leading quantum science, technology development, supply chain and applications ecosystem. Current and future actions under each pillar will support the realization of the NQS missions. 
+
+Research: Developing better solutions 
+Continuing to support Canada’s research base is essential to ensure leadership in quantum science and technology. Basic and applied research to better understand and exploit quantum phenomena will continue to be important over the long term, as many impactful quantum innovations have yet to be discovered. 
+Without world-leading research, Canada will not have the expertise to advance the frontiers of quantum science, anchor talent development and create spinoff companies to commercialize products. Research in related fields, such as business and the social sciences and humanities, is also required to understand the social and economic impacts of quantum technologies. 
+Canada is at the stage where enhanced scale of effort and collaboration are critical to realize the promise of quantum technologies. 
+Institute for Quantum Computing 
+The IQC is a cross-disciplinary institute within the University of Waterloo with more than 300 researchers. Its mandate is to engage in research, training, educational outreach and device fabrication related to quantum information science and quantum technologies. Over the past 10 years, the Government of Canada has provided $51 million to support the IQC. The IQC is part of a quantum ecosystem that extends from discovery research in advanced physics at the Perimeter Institute to advanced development and commercialization at the Quantum Valley Ideas Lab. 
+Actions to date 
+Over several decades, Canada has supported research through competitive peer-reviewed programs and targeted investments in research institutes and hubs. One major Government of Canada program is the Canada First Research Excellence Fund (CFREF), which helps competitively selected Canadian postsecondary institutions turn their strengths into world-leading capabilities. CFREF has invested $176.3 million in quantum projects to date. 
+QEYSSat 
+The Canadian Space Agency’s QEYSSat will 
+be a low-earth orbit satellite with a quantum 
+receiver and transmitter, capable of quantum 
+key distribution with a ground station. The 
+QEYSSat mission is intended as a scientific 
+platform and demonstrator for Canada, offering 
+a unique opportunity to implement satellite
+based quantum communications and perform 
+cutting-edge scientific experiments. 
+In addition, the Natural Sciences and Engineering Research Council of Canada (NSERC) and the CFI have provided more than $200 million and $180 million, respectively, in funding to quantum researchers since 2012. 
+Peer-reviewed research funding has revealed and strengthened regional expertise, with investments fostering the development of key regional quantum hubs in Quebec, Ontario, Alberta and British Columbia. Centred on universities with significant strengths in quantum research and training, these hubs have increased their collaboration and output, and exploited synergies across areas of quantum research to deliver significant advancements in quantum technologies. Collectively, they comprise more than 100 ecosystem players. 
+The Government of Canada has supplemented the CFREF, NSERC and CFI supports with additional investments, including in key components of the Quebec and British Columbia quantum ecosystems, such as the MiQro Innovation Collaborative Center (C2MI) and the Quantum Algorithms Institute. 
+While each regional hub covers a range of quantum science areas, and the hubs have been broadening linkages to expand their reach, no single hub can do it all. The next steps are to deepen collaborations while continuing to exploit synergies, and to further network activities and resources across the country. 
+The way forward 
+While continuing to support basic and applied research, the Government of Canada will seek to advance quantum technologies by enabling academic researchers to participate in largerscale research partnerships. These will be aimed at growing knowledge of how quantum systems work, developing new technologies and inventing new applications. Expanded partnerships between academia, industry, government and like-minded nations are essential to translate quantum research into societal benefits for Canadians. 
+Supporting key grant programs 
+The Government of Canada supports quantum science through existing competitive programs, including NSERC’s Alliance Quantum grants. 
+NSERC Alliance grants are a flexible instrument, allowing for support of multiple types of collaborations. These grants support research projects led by strong, complementary, collaborative teams to generate new knowledge and accelerate the application of research results, to create benefits for Canada. Alliance Quantum funding opportunities support the NQS by advancing Canada’s research, innovation and talent development in quantum science and technology through domestic and international collaborations. 
+Under the NQS, the Government of Canada has announced three new quantum-specific streams of Alliance grants: 
+• 
+Alliance – Quantum ($62.5 million over seven years) to reinforce, coordinate and scale up Canada’s domestic research capabilities; 
+
+• 
+Alliance – Consortia Quantum ($40 million over seven years) to develop large-scale research collaborations across institutions that connect to government needs and industry applications; and 
+
+• 
+Alliance – International Quantum ($30 million over seven years) to allow Canadian academic researchers to connect to international opportunities. 
+
+
+As the mission road-mapping exercises advance, there will be an opportunity to further align the various streams with the needs of the quantum research community. 
+Working together to increase impact 
+In addition, many federal departments are already active in connecting and supporting the quantum community. For example, the NRC conducts and funds research in quantum. The Communications Security Establishment (CSE), Canadian Space Agency and DND are supporting and studying the development and impact of quantum technologies relevant to their respective mandates. 
+A new program, called the Quantum Research and Development Initiative (QRDI), will be introduced to grow Government of Canada quantum capabilities and expertise. The QRDI will help de-risk emerging quantum technologies for key sectors and advance applications to support government priorities. The program will bring together federal departments and agencies to work on collaborative quantum research and development projects, and engage with the broader Canadian quantum ecosystem in support of cross-cutting departmental mandates and priorities to address issues important to Canadians. 
+IDEaS 
+Innovation for Defence Excellence and Security (IDEaS) connects Canada’s toughest defence and security challenges with creative thinkers, providing them with the resources and guidance they need to bring new solutions to light. The program is intended to foster solutions at any stage of development that have a potential defence and security focus, and align them with DND/Canadian Armed Forces priorities. In addition to the program’s Quantum Leap Challenge, quantum technologies are regularly offered as solutions in other challenges to solve defence and security problems. 
+
+
+Talent: Building a world-leading workforce 
+Developing, attracting and retaining talent are critical for Canada to succeed in quantum science and technology. The talent shortages already faced by industry and research institutions will intensify as more quantum technologies, products and services become available for broader use. 
+While research and technical talent is critical, growing Canada’s national ecosystem will also require efforts to build and retain a cross-disciplinary quantumliterate workforce from diverse backgrounds. This includes business and marketing talent that can support sector growth, and university and collegetrained talent that can apply quantum technologies across the economy. There is also a need to develop complementary social science and humanitiesrelated skills to ensure that the advantages arising from the use of quantum technologies can benefit all Canadians in a fair and equitable way. Amid a growing international demand for a limited pool of talent, Canada faces the particular challenges of retaining the talent it has developed and building a more diverse and inclusive quantum workforce. 
+Actions to date 
+Canada’s quantum talent is being sought the world over. Canadian universities have taken the lead in developing talent and attracting global researchers at the doctorate, postdoctorate and professor levels. Recognizing the importance of all levels of quantum talent on industrial success, universities have bolstered efforts to develop the talent pipeline by equipping students with industry-relevant quantum competencies at an earlier stage. 
+For example, the Université de Sherbrooke has launched a Bachelor in Quantum Science program to develop students early in their careers. The Institute for Quantum Computing has launched a new Master of Science in Physics with a specialization in Quantum Technology to arm students with the skills to drive the deployment of quantum technologies. To expand quantum computer-related training, the Institut Quantique and the Stewart Blusson Quantum Matter Institute have jointly launched the first Pan-Canadian virtual workshop in quantum programming. 
+Other investments have supported quantum talent development and knowledge mobilization. For example, in 2019–20, the Government of Canada supported talent mobilization in the quantum sector via more than $3 million in Mitacs internships. 
+NSERC CREATE has also been successfully used to build quantum talent by supporting training experiences relevant to academic and non-academic careers. Four quantum-focused CREATE initiatives funded from 2010 to 2018 collectively supported 306 trainees. 
+Research funding is also critical to training, as the majority of research funding goes to support the efforts of research trainees at the undergraduate, graduate and postdoctoral levels. Larger-scale research awards also contribute to the attraction and development of quantum talent. 
+The way forward 
+Attracting and developing talent 
+Given the global competition for quantum talent, it will be critical for Canada to invest in developing and retaining quantum expertise in Canada, as well as accessing global pools of talent to meet Canada’s current and future needs. With respect to domestic talent, being internationally competitive on student and postdoctoral compensation and on the quality of their work environment will be key. In terms of international talent, Canada must make it as easy as possible to bring and keep those with quantum expertise here, to work with our researchers and businesses. Canada also has a role to play in collaboration with our international partners in ensuring an inclusive work environment and growing the overall global talent pool for our mutual benefit. 
+To provide the talent businesses and academia need to be successful, the Government of Canada will seek to generate new industry-ready quantum expertise by facilitating training and work-integrated learning opportunities on quantum projects for postsecondary students at the college, undergraduate and graduate levels, including postdoctoral fellows and other research talent. This will include supporting innovative research projects that provide students with exposure to business-related skills development (e.g., commercialization, entrepreneurship, project management, intellectual property) as well as social science considerations (e.g., legality, ethical use). 
+Academic research projects train and develop the quantum experts of tomorrow. Multiple disciplines can also play a critical role by helping analyze and manage risk (e.g., economics, finance management, political science). Colleges can play a role in developing many of the supporting skills required to advance quantum technologies and support their adoption by industry users. As the technologies mature and the capabilities are better understood, it will be important to develop expertise on the ethical use of quantum technologies. 
+Sustaining industry growth requires creating linkages to international pools of talent. The Government of Canada will support strategic partnerships that bring the best and brightest researchers and innovators from abroad, and enable Canadian talent to gain complementary skills from international partners in collaborations with like-minded nations. 
+Building on efforts to date, the NQS will strengthen Canada’s talent pipeline by bolstering programming delivered by Mitacs and NSERC CREATE. The government announced funding, including support to the NSERC CREATE grants in March 2022, which will allow the development of academic quantum expertise in areas of industry priority. Funding to Mitacs will help industry meet its talent needs by providing internships. 
+Under the NQS, the Government of Canada is providing $40 million over six years to Mitacs to support the attraction, training, retention and deployment of highly qualified personnel in quantum science and technology through internship experiences and professional skills development for post-secondary students, recent graduates and postdoctoral fellows. Industry internships will help transition talent to industry and retain expertise in Canada. Internships can also serve as powerful tools to attract international trainees to Canada. For example, Mitacs Accelerate International supports bilateral research collaborations between interns, universities and industry partners in Canada and abroad, allowing trainees from partner countries to undertake projects in Canada. 
+
+
+The Government of Canada is also providing $5.4 million over six years to NSERC CREATE toward developing research skills; training in areas such as professional skills, communication and collaboration; and mentoring activities for trainees. These initiatives will involve a group of accomplished researchers who work collaboratively to offer a defined research training program to trainees in areas aligned with NQS priorities. 
+Stakeholders stressed the importance of linkages to international pools of talent to complement Canadian strengths. Alliance International grants will enable academic Canadian researchers to work with international trainees to further academic-led projects. Additionally, several federal departments, including Immigration, Refugees and Citizenship Canada and Global Affairs Canada (GAC), are working to attract quantum talent to Canada by including quantum expertise in the list of desired qualifications. 
+Beyond the NQS, other Government of Canada funding has the opportunity to support research related to quantum technologies. For instance, Budget 2022 proposed $17.7 million over five years, starting in 2022–23, and $5.5 million thereafter until 2031–32, for the CSE to establish a unique research chair program to fund academics to conduct research on cutting-edge technologies relevant to CSE’s activities such as quantum technologies and AI. 
+Improving diversity in the talent pool 
+To ensure Canada benefits from the perspectives of a diverse pool of talent, it is critical to make diversity and inclusion hallmarks of talent efforts under the NQS. Representation in key fields relevant to the quantum sector is currently imbalanced, so Canada is missing out on a critical supply of new ideas and talent in a highly competitive international market. The NQS provides an opportunity to make a concerted effort to build an inclusive talent ecosystem in an area of national priority, by testing new approaches to attracting diverse talent to the field, supporting under-represented groups at all career stages and addressing systemic bias in the selection of talent for the quantum workforce. 
+The Government of Canada commits to fostering the full spectrum of ways it can address representation imbalances and support the people and communities who will advance quantum science and technologies. As approaches are being considered, NQS programs will pursue incremental gains in representation by implementing gender-based analysis approaches to equity, diversity and inclusion (EDI). Given current realities and a highly competitive international market for talent, sustained effort over time will be required to realize meaningful progress and will be a key consideration in the development of roadmaps under the NQS missions. 
+At the early stages of the talent pipeline, initiatives include Let’s Talk Science, a program to promote youth skills development and engagement in science, technology, engineering and math (STEM). Since 2015, Innovation, Science and Economic Development Canada (ISED) has provided $22.5 million to enable the organization to deliver STEMbased programming for early years to grade 12 youth, build career awareness among students and teachers, and offer career-building volunteer opportunities to post-secondary students. These types of activities will be essential to growing expertise in quantum technologies among people of all communities, and establishing a pipeline to supply the research and businesses sectors. 
+Additionally, the program’s broad community-based approach encourages youth from under-represented groups, such as girls, Indigenous youth, youth with disabilities, at-risk youth, and those in rural or remote locations, to develop life-long learning habits and curiosity toward STEM fields such as quantum science and technologies. 
+NSERC, through the Tri-Agency EDI Action Plan, aims to support equitable access to funding opportunities for all researchers and students. For example, Alliance and CREATE funding opportunities require grantees to report on practices that support EDI. Alliance grants also include EDI as an integral consideration in the assessment of applications. 
+The Perimeter Institute’s initiatives to enhance EDI in theoretical physics and related fields include the Perimeter Scholars International Masters program and the International Summer School for Young Physicists, which have trained nearly equal numbers of participants across genders. To attract and retain more students, Perimeter is also launching the PSI START program, which aims to increase the numbers of undergraduate students from under-represented groups who pursue further studies in physics. The program will offer online schooling, as well as opportunities for a select number of trainees to participate in research with scientists at Perimeter. 
+
+
+Commercialization: Translating research into commercial outcomes 
+Driven by the development of new technologies that promise economic and societal benefits, many nations around the world are pursuing the commercial development of quantum technologies. Canada has been an early mover, leading to many quantum firsts, and Canadian quantum entrepreneurs are wellpositioned to take advantage of the opportunities. 
+Canada has a growing ecosystem of start-ups, service providers, and larger domestic and multinational firms. A recent Statistics Canada analysis of 50 quantum companies between 2016 and 2019 shows healthy growth, with an increase in the number of companies (+58%), an increase in average sales (+30%) and an increase in employment numbers (+59%).7 Canadian businesses are also beginning to coordinate their activities by establishing industry associations such as Quantum Industry Canada. The technology mentoring program Creative Destruction Lab has spurred growth in the quantum sector by helping launch more than 50 quantum firms through its four quantum streams. 
+With large multi-nationals in the marketplace, Canadian companies need more resources to compete effectively. In addition to addressing challenges in securing investment, the sector needs to scale by identifying Canadian first adopters of its products and growing connections to international supply chains. Canadian firms and governments that could benefit from adopting new quantum innovations need to play a more active role in working with the quantum sector to drive product development. This will enhance their own ability to succeed in a more competitive and technologicallyenabled global environment. 
+
+
+The Government of Canada is committed to making quantum a Canadian scale-up success story by continuing to support growth as the industry expands and global competition for investment becomes fiercer. 
+Actions to date 
+The Government of Canada has supported the incubation, start-up and scale-up of leading quantum businesses of all sizes. For example, the NRC’s Industrial Research Assistance Program (IRAP) has provided funding and business supports for Canadian quantum small and medium-sized enterprises. Quantum technology firms have also received Government of Canada funding through ISC and regional development agencies such as the Federal Economic Development Agency for Southern Ontario (FedDev Ontario), Western Economic Diversification (WD) and Canada Economic Development for Quebec Regions (CED). Additionally, GAC’s Canadian International Innovation Program, in partnership with NRC IRAP, has delivered funding to Canadian small and medium-sized enterprises to undertake collaborative R&D and technology matchmaking missions with foreign industrial partners in the quantum space. 
+In addition, the Government of Canada has supported large projects and national innovation ecosystems through the SIF, including a $40-million contribution to Vancouver-based D-Wave in March 2021. To meet the industry’s risk capital needs for a number of disruptive technologies—including quantum— the Business Development Bank of Canada (BDC) launched the $200 million Deep Tech Venture Fund with investments in Xanadu of Toronto and Nord Quantique in Sherbrooke in 2022. BDC is a strong supporter of quantum start-ups, having engaged and supported many across the country. BDC was also an early investor in D-Wave. 
+The Government of Canada also funds commercial projects that support strategic priorities such as defence and security. For example, the DND’s IDEaS program supported innovators with $8.2 million to develop field-deployable quantum sensing technologies. 
+The way forward 
+To support R&D, scale up firms and drive the adoption of commercial applications, the Government of Canada will accelerate the development, prototyping and testing of strategic quantum products and services to bring them to market quicker, and support innovative firms to help them grow in Canada and globally. The Government of Canada will also develop and de-risk the market for quantum technologies through the procurement of new quantum products, processes and services that deliver on key government priorities. This will facilitate the adoption of these technologies by the public and private sectors. 
+The quantum business community has had success in securing support under a range of federal programs, such as SIF, BDC Deep Tech Venture Fund, IDEaS programs and others, and these programs could make additional investments in quantum. The way forward may also include support from the innovation and investment agency announced in Budget 2022. This agency will work with new and established Canadian industries and businesses to help them make the investments they need to innovate, grow, create jobs and be competitive in the changing global economy. Moving forward in the development of the NQS missions, near-, medium- and long-term needs of the quantum industry will be identified, and ways to adjust programming and respond to needs over time will be advanced. 
+Bringing new quantum technologies to market 
+Under the NQS, the Government of Canada will provide $50 million over seven years to expand the NRC’s Internet of Things: Quantum Sensors Challenge and launch its Applied Quantum Computing Challenge to: 
+• 
+Enable the development of revolutionary sensors that harness the extreme sensitivity of quantum systems to provide enhanced precision, sensitivity, rates and range of measurable phenomena; and 
+
+• 
+Support commercial innovation and build on Canada’s position as a global leader in applied quantum computing by developing new 
+
+
+algorithms, hardware and applications that harness the power of quantum computers. 
+Supporting Canadian firms and connecting them together 
+Through the Regional Economic Growth through Innovation (REGI) program, CED, FedDev Ontario, PrairiesCan and PacifiCan will deliver $70 million over seven years in quantum funding. REGI will support high-potential projects and commercialization activities to help scale up Canadian companies of any size involved in quantum and quantum-related technologies in key regional quantum hubs across Canada: Quebec, Ontario, Alberta and British Columbia. In June 2022, FedDev Ontario launched a funding call to support eligible businesses in southern Ontario to advance and commercialize their quantum products and solutions for domestic and global markets. 
+Under the NQS, the Government of Canada will provide $14 million over seven years to the Global Innovation Clusters to speed up growth in Canada’s quantum technologies industry by encouraging industry leaders, small and medium-sized enterprises, and post-secondary institutions to collaborate on large-scale quantum projects. 
+Creating a domestic market for quantum innovations 
+ISC enables the Government of Canada to use its R&D procurement spending (contracts) and grants to support the growth and scale-up of firms. Under the NQS, the Government of Canada will provide $35 million over seven years to assist innovative Canadian businesses solve pressing challenges by facilitating operational-prototype testing of late-stage R&D. 
+The Department of National Defence and Canadian Armed Forces Quantum Science and Technology (S&T) Strategy will advance defence interests by transitioning quantum technologies into capabilities. The S&T Strategy will achieve this by advancing research and engineering, building domestic and international partnerships, and growing the Canadian talent pool. 
+The Government of Canada will play a pivotal role in Canada’s quantum future by advancing the needs of the country; partnering with Canadian quantum companies to co-develop solutions; and making strategic use of policy, programming and procurement. The result will be a win-win partnership: Canadians will benefit from quantum applications while Canadian quantum companies will supply the world with sought-after solutions. 
+
+
+
+
+T
+o achieve the objectives of the NQS, the 
+Government of Canada needs to establish 
+mechanisms to tap into thought leadership and engage representatives along the entire innovation continuum—from researchers and companies to end users and government, including policy makers. Coordinated governance will position Canada to take advantage of research and commercial opportunities and increase awareness and adoption. 
+To help grow the quantum sector and ensure that the NQS remains on track, a Quantum Advisory Council will be established to provide impartial advice to government. The Council will draw on expertise, experience and knowledge of best practices from the industry, academic, not-for-profit and investment communities, as well as receptor industries. The Council could include representation from associations such as Quantum Industry Canada, as it will be important to engage the developer and user communities when identifying the needs of Canadian businesses. 
+Ongoing stakeholder engagement will be critical to achieving the goals of each of the three NQS missions. Mission-specific working groups representing the full innovation continuum will develop roadmaps including activities, milestones and potential investments. The Government of Canada will use the roadmaps to inform future quantum investments. 
+For the NQS to succeed, the quantum efforts of federal departments and agencies must be better coordinated and aligned. An interdepartmental Quantum Committee involving all federal departments with an interest in quantum will ensure coordination and connections to the broader Canadian quantum ecosystem. The NQS Secretariat will support these groups to facilitate the implementation of external advice and identify needs, opportunities, activities and programming. 
+The NQS Secretariat will also provide a focal point of contact, internal and external, to connect the ecosystem, providing information on opportunities and sources of support, and facilitating the adoption of quantum technologies by bringing together the user community and developing use cases in key sectors. 
+
+
+Provincial and international collaboration 
+M
+utually beneficial collaboration will be 
+critical to the success of the NQS, 
+including among domestic businesses 
+and researchers, within federal departments, with 
+provincial governments, and between Canadian 
+stakeholders and international partners. 
+Several provincial governments (Quebec, Ontario, Alberta and British Columbia) have identified quantum as a priority in their science and research agendas, and provided funding to the quantum hubs in their provinces: 
+• The Government of Quebec has invested heavily in quantum technologies, committing nearly $200 million in R&D for quantum projects from 2019 to 2026, including $131 million for the creation of a Sherbrooke Quantum Innovation Zone centred at the Institut Quantique de Sherbrooke. These investments also include $87.5 million for access to state-of-the-art quantum computing infrastructure, including a quantum computing hub at the Institut Quantique (IBM Quantum Hub), an IBM discovery accelerator, a quantum computer from IBM Q System One, located in Quebec, as well as a quantum computer from Anyon Systems for public research. In addition, Quebec has funded Canada’s first quantum communications loop, which will be located in the Sherbrooke Quantum Innovation Zone, and has invested more than $8 million in quantum innovation projects of startups and SMEs. 
+• 
+In 2021, the Government of Ontario announced an investment of $24 million over two years to the Perimeter Institute for Theoretical Physics, which has received nearly $137 million in provincial funding since it was founded in 1999. Between 2014 and 2018, the province funded the Institute for Quantum Computing with close to $25 million, making Waterloo a global centre for development and commercialization of quantum technologies. 
+
+• 
+Since 2016, the Government of Alberta has invested $22 million in quantum-based university R&D, of which $6.1 million was to establish Alberta as a hub for quantum technologies in Canada. Recently, the province announced that $67.5 million in funding will be provided over three years through the implementation of the Alberta Technology and Innovation Strategy to accelerate commercialization of technologies in artificial intelligence and quantum science. This includes funding to establish Quantum City, a world-class quantum science and technology hub at the University of Calgary in a strategic partnership with the University of Alberta and the University of Lethbridge. 
+
+• 
+In 2019, the Government of British Columbia committed $17 million over five years to establish the Quantum Algorithms Institute. 
+
+
+Under the NQS, the Government of Canada will seek out collaboration opportunities with all provinces and territories, and provide funding to expand activities and partnerships. The NQS will align Canada’s efforts to build quantum capabilities across the country. 
+Linkages to the international community are crucial to success. Canadian researchers are actively working with international colleagues to create new knowledge, push the boundaries of understanding and develop new technologies that will serve our common interest. Canada is a leader in both the number and the quality of quantum publications with impacts among G20 countries.8 Almost 70% of Canadian quantum publications are produced in collaboration with international partners. 
+Canadian Institute for Advanced Research 
+CIFAR is a Canadian-based global research 
+organization that brings together international, 
+interdisciplinary researchers who work together 
+for five-year terms. Two major quantum 
+projects were renewed in 2019: quantum 
+materials and quantum information science. 
+Despite Canada’s considerable strength in quantum research and technology, the reality is that no single country can succeed in realizing a quantumenabled future by going it alone. Progress on key areas of quantum research will require deepening collaborations with international centres of expertise. Rather than simply competing for a small global talent supply, Canada must work with key partners to increase and diversify the collective talent pool.  
+International collaboration is also critical to ensure the Canadian quantum industry has strong connections to the global pool of ideas and to key international markets. In developing a more deliberate Canadian approach to international collaboration on quantum science, technology and innovation, it will be important to strike the right balance between open collaboration and Canada’s security interests, with a focus on working closely with trusted allies. 
+Because of existing connections with the international quantum community, Canada is able to work with partners to accelerate the development of mutually beneficial key technologies. The Government of Canada is pursuing opportunities to work with like-minded nations to deepen collaboration and opportunities. 
+For example, the NSERC-UK Research and Innovation (UKRI) Quantum Technologies Competition brings together business, academic and government partners to develop quantum technologies. The first formal partnership between NSERC and the U.S. National Science Foundation, announced in June 2021, paves the way for research collaborations on emerging technologies, including quantum. NSERC and the European Commission, under the banner of Horizon Europe, are also partnering on quantum technologies. The Government of Canada continues to support international collaboration and launched an international quantum stream of the NSERC Alliance grants program. 
+Going forward, the Government of Canada commits to strengthening country-to-country collaboration bilaterally and multilaterally, with a focus on key allies. Along with jointly advancing knowledge, this approach will position Canada to ensure interoperability of these technologies and contribute to emerging supply chains in areas of sensitive technologies as well as quantum technologies more broadly. 
+When it comes to the development of sensitive technologies, it will be important to consider both the benefits and the risks of sharing knowledge. Threats posed by foreign interference and espionage are a challenge for Canada’s research community. Cuttingedge research and intellectual property in emerging domains, including quantum, can be an attractive target. It is important that research security measures be applied to prevent unauthorized use of and access to knowledge, data and results. Insufficient protections can allow hostile threat actors to exploit Canadian innovation, which may result in negative effects on the safety and security of Canadians, as well as missed opportunities to put Canada’s innovations into action and grow the economy. 
+
+
+To help protect Canada’s quantum research, initiatives under the NQS will take into account national security considerations to ensure Canada’s investments in quantum are maximized for Canadian benefit. These initiatives will follow Canada’s new National Security Guidelines for Research Partnerships, announced in July 2021, and the Guidelines on the National Security Review of Investments, announced in March 2021. Resources such as the Safeguarding Your Research Portal and the Safeguarding Science Initiative will also be used to inform researchers about the threat environment and offer tools to help them recognize and mitigate specific risks. 
+To maximize opportunities to work with international partners, the Government of Canada will seek to: 
+• Develop a talent pipeline to attract quantum expertise to Canada and help grow the global quantum community; 
+• 
+Augment skills of the Canadian quantum workforce; 
+
+• 
+Integrate into global supply chains to ensure there is a market for Canadian products; and 
+
+• 
+Increase interoperability with technologies produced by like-minded partners. 
+
+
+To strengthen the talent pipeline, the Government of Canada will work with Mitacs to facilitate integrated work placements for foreign experts in Canadian industry. As well, GAC’s Trade Commissioner Service (TCS) will be leveraged to facilitate Canadian firms’ access to foreign markets and help them export their products abroad. 
+Additionally, the TCS, in partnership with Invest in Canada, will support the NQS through the Foreign Direct Investment Attraction Strategy by promoting foreign direct investments from and R&D partnerships with like-minded countries, while keeping security implications in mind. 
+The TCS and Canada’s network of missions abroad can also support the NQS through Canadian International Innovation Program investments and by facilitating international partnerships and activities in line with NQS objectives. Going forward, international marketing opportunities will also be considered. 
+
+
+
+T
+his strategy is another step toward success 
+in quantum. Over the coming months, the 
+Government of Canada will launch additional funding calls and consider other supports in general industrial and research support programs. The quantum community is encouraged to continue to make use of related programming to bolster the development of quantum technologies. 
+Funding alone is insufficient. The surest way to succeed in the quantum technologies race is to work together. It is essential to co-develop roadmaps and milestones, along with ways to accurately report on progress, allowing Canada to be nimble in the rapidly evolving quantum technologies landscape. After the working groups develop roadmaps and milestones for each mission, the Government of Canada will be better positioned to take informed next steps toward strengthening Canada’s quantum ecosystem. 
+That is why the Government of Canada will continue its ongoing dialogue with stakeholders, provinces and like-minded nations, and deepen its collaborations to ensure that all elements are in place for success. 
+
+
+
+RESEARCH PILLAR 
+
+Research will be supported through programming at the Natural Sciences and Engineering Research Council of Canada (NSERC) and the National Research Council of Canada (NRC): 
+• 
+NSERC Alliance grants program ($132.5 million over seven years), specifically 
+
+• 
+Alliance Quantum grants ($62.4 million over seven years) 
+
+• 
+Alliance International Quantum grants ($29.7 million over seven years) 
+
+• 
+Alliance Consortia Quantum grants ($40.4 million over seven years) 
+
+
+
+• 
+NRC’s Quantum Research and Development Initiative ($9 million over six years) 
+
+
+Related programming 
+
+In addition to the funding mechanisms in the NQS, a number of other Government of Canada research funding programs can support the achievement of NQS objectives and missions, including: 
+Tri-agency programming 
+Canada 150 Research Chairs Program (C150) – Granting Agencies 
+• Enhances Canada’s reputation as a global centre for science, research and innovation excellence. 
+Canada Excellence Research Chairs Program (CERC) 
+– Granting Agencies 
+• Helps Canadian universities build on Canada’s reputation as a global leader in research and innovation. 
+Canada First Research Excellence Fund (CFREF) – Granting Agencies 
+• 
+Supports Canadian post-secondary institutions in turning their key strengths into world-leading capabilities. 
+
+New Frontiers in Research Fund (NFRF) – Granting Agencies 
+
+• 
+Advances ground-breaking research. 
+
+
+NSERC programming 
+Discovery Grants 
+• 
+Support ongoing programs of research with long-term goals. 
+
+NSERC-National Science Foundation – Collaboration on quantum science and artificial intelligence 
+
+• 
+NSERC and the U.S. National Science Foundation (NSF) signed a memorandum of understanding on research cooperation. This overarching framework provides the basis for collaboration between NSERC and the NSF, with the first funding opportunity focused on discoveries and innovations in the areas of quantum science and artificial intelligence. 
+
+
+Federal department programming 
+Canadian International Innovation Program (CIIP) – Global Affairs Canada 
+• Supports Canadian companies to pursue international R&D collaboration with a foreign partner on projects that have the potential for commercialization. 
+Innovation for Defence Excellence and Security 
+(IDEaS) – Department of National Defence (DND), including Defence Research and Development Canada (DRDC) 
+• 
+Fosters innovation to solve some of Canada’s toughest defence and security challenges, and previously launched a call for proposals on quantum sensors. 
+
+• 
+There is a potential for additional quantum calls for proposals in the future. 
+
+
+Federal agency programming 
+Innovation Fund – Canada Foundation for Innovation (CFI) 
+• 
+Provides investments in infrastructure across the full spectrum of research. 
+
+John R. Evans Leaders Fund – Canada Foundation for Innovation (CFI) 
+
+• 
+Helps institutions attract and retain the best researchers. 
+
+
+Third-party organizations 
+Perimeter Institute for Theoretical Physics 
+• Leads scientific research, training and educational outreach in foundational theoretical physics. 
+
+
+
+TALENT PILLAR 
+
+Talent will be supported through programming at NSERC and Mitacs: 
+• 
+NSERC CREATE grants program ($5.4 million over six years) 
+
+• 
+Mitacs ($40 million over six years) 
+
+
+
+Related programming 
+
+In addition to the funding mechanisms in the NQS, a number of other federal talent and immigration programs have the potential to support the achievement of NQS objectives and missions, including: 
+Immigration, Refugees and Citizenship Canada programming 
+Canadian Experience Class 
+• 
+Targets current and former temporary foreign workers and international students. 
+
+• 
+Applicants require at least one year’s work experience in a high-skilled occupation in Canada and official language proficiency. 
+
+
+Federal Skilled Trades Program 
+• 
+Targets individuals in certain high-skilled trades. 
+
+• 
+Applicants with a job offer or Canadian qualifications in these trades may be eligible for permanent residence if they have sufficient language proficiency, training and work experience in a trade. 
+
+
+Federal Skilled Worker Program 
+• 
+Targets individuals with high-skilled work experience and high human capital. 
+
+• 
+Applicants are awarded points based on criteria such as age, official language proficiency and education. 
+
+Global Skills Strategy 
+
+• 
+Features faster application processing times, work permit exemptions and enhanced customer service to help employers find highly skilled workers faster. 
+
+Provincial Nominee Program 
+
+• 
+A jointly administered immigration program that enables provinces and territories (PT) to address their specific economic development needs while distributing the benefits of economic immigration across all regions of Canada. 
+
+• 
+Currently, PTs administer more than 80 different immigration streams targeting students, entrepreneurs and workers across all skill levels. 
+
+
+Other federal department programming 
+Global Talent Stream – Employment and Social Development Canada (ESDC), part of the Temporary Foreign Worker Program 
+• 
+Designed for innovative firms in Canada that are referred to ESDC by a designated referral partner and that need unique and specialized foreign nationals to scale up and grow. 
+
+• 
+It is also intended for firms in Canada that need to fill an in-demand highly skilled position on the Global Talent Occupations List. 
+
+Postdoctoral Fellowship/Research Programs – Government of Canada 
+
+• 
+The NRC and other science-based departments and agencies offer early career scientists access to world-class facilities and the opportunity to work alongside multidisciplinary teams of expert researchers on projects of critical importance to Canada. Fellows are normally offered a two-year term appointment. 
+
+Research Affiliate Program – Public Service Commission of Canada 
+
+• 
+Enables students to work full- or part-time as research affiliates with the Government of Canada by conducting innovative research related to their degree or program. 
+
+
+
+
+
+COMMERCIALIZATION PILLAR 
+
+Commercialization will be supported through programming at several departments and agencies: 
+• 
+ISED’s Global Innovation Clusters ($14 million over seven years) 
+
+• 
+ISED’s Innovative Solutions Canada ($35 million over seven years) 
+
+• 
+NRC Challenges Program ($50 million over seven years) 
+
+• 
+Regional development agency support, specifically: 
+
+
+• 
+Canada Economic Development for Quebec Regions (CED) ($23.3 million over seven years) 
+
+• 
+Federal Economic Development Agency for Southern Ontario (FedDev Ontario) ($23.3 million over seven years) 
+
+• 
+Prairies Economic Development Canada (PrairiesCan) ($9.4 million over seven years) 
+
+• 
+Pacific Economic Development Canada (PacifiCan) ($14 million over seven years) 
+
+
+
+
+Related programming 
+
+ISED is exploring ways it can apply Canada’s Industrial and Technological Benefits (ITB) Policy to drive greater quantum technology-related business activities into Canada. The ITB Policy is Canada’s primary tool to leverage economic benefits from defence and major Canadian Coast Guard procurements. It is market-oriented and requires companies awarded defence contracts to undertake business activity in Canada equal to the value of the contract they have been awarded. The types of business activities involving quantum technologies that could currently qualify for credit under the ITB Policy align well with the policy’s value proposition pillars of R&D, and skills development and training. 
+In addition to the Government of Canada programs in the NQS, there are a number of additional federal initiatives that are playing, or can play, a significant role in supporting the Canadian quantum industry, including: 
+Federal department programming 
+Canada Trade Commissioner Service – Global Affairs Canada (GAC) 
+•
+The Trade Commissioner Service (TCS)contributes to Canadian economic growth throughinternational business development, exportpromotion, innovation partnerships and foreigndirect investment attraction efforts that promoteCanada’s position as a leader in technology andsustainability. This is achieved through the supportof GAC’s domestic and international network atheadquarters, in the regions through the RegionalBusiness Network and at missions abroad.
+
+High Throughput and Secure Networks Challenge Program – NRC 
+
+•
+Supports collaborative R&D projects on quantumcommunications.
+
+Industrial Research Assistance Program – NRC IRAP 
+
+•
+Provides advice, connections and funding to helpCanadian small and medium-sized businessesincrease their innovation capacity and takeideas to market.
+
+
+Space Technology Development Program (STDP) – Canadian Space Agency (CSA) 
+•
+Supports the development and maturation ofspace technologies and innovation for the growthof the Canadian space industry.
+
+Strategic Innovation Fund (SIF) – Innovation, Science and Economic Development Canada (ISED) 
+
+•
+Supports large-scale, transformative andcollaborative projects that promote thecompetitiveness of Canadian industries,advancement of Canada’s technological advantageand clean growth.
+
+Quantum Encryption and Science Satellite (QEYSSat) mission – CSA 
+
+•
+Aims to demonstrate quantum key distribution,a technology that creates virtually unbreakableencryption, in space.
+
+
+Federal agency programming 
+Deep Tech Venture Fund – Business Development Bank of Canada (BDC) 
+•Targets Canadian companies working in deep techverticals, including quantum, with a $200 millionearly-stage investment fund.
+
+
+
+
+
